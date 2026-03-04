@@ -25,12 +25,52 @@ All prompts are collected from the community (such as Reddit, X, WeChat, and oth
 ![seedance2 0 homepage](https://github.com/user-attachments/assets/042b44fe-2493-44aa-a88b-c9f718b18ae1)
 
 ## 🔥 Featured Prompts
-### No.1 Golden eagle flying through a city and landing
+
+### No.1 BRAIN DRAIN
+
 🎬 **Video**
 
+https://github.com/user-attachments/assets/703ce1d2-3e4f-466a-8760-632d111822d6
+
+📝 **Prompt**
+```text
+Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile materials — real fabric, clay, wire armatures, actual tiny props. A clay man sits at a miniature desk in a cozy office, a real tiny laptop open in front of him glowing with a familiar chat interface — white screen, alternating grey and white bubbles. His clay head is in cross-section — one half of his skull open like a hinged lid revealing a plump, healthy, pink clay brain filling the entire cavity. He types a question. [cut] The chat responds — a grey bubble appears. He smiles. In stop-motion the brain shrinks slightly, a tiny gap appearing between brain and skull. He doesn't notice. He types again. [cut] Rapid montage — each question fired off in quick stop-motion. With every sent message the brain shrinks one click smaller — plump to walnut to grape to pea. The empty skull space fills with real tiny cobwebs, a miniature tumbleweed rolls through, a small 'FOR RENT' sign pops up on a tiny stake inside his head. [cut] Close-up of the skull interior — the brain is now a single tiny pink crumb rattling around the bottom of an enormous empty cavity. A real tiny echo visual — the crumb bounces off the walls like a screensaver. [cut] Wide shot — the man leans back with a huge satisfied clay grin, arms behind his head, feet on the desk. The laptop screen shows hundreds of conversations in the sidebar. On the wall behind him, framed diplomas gather real dust. A real tiny spider has built a web between his ear and his shoulder. He looks completely content. The brain crumb settles in a corner and stops moving
+```
+
+📌 Details  
+
+Author: @AleRVG  
+
+Source: [Twitter Post](https://x.com/AleRVG)  
+
+Published: March 4, 2026
+
+### No.2 The vibrant modern cityscape of Zibo
+
+🎬 **Video**
+
+https://github.com/user-attachments/assets/b9706438-7fe8-49f3-8842-d00c537c855e
+
+📝 **Prompt**
+
+```text
+The vibrant modern cityscape of Zibo, the majestic night view of the landmark Haidai Tower, intertwine with the antique architecture of Zhoucun Ancient Town. The visuals feature a rich variety of rapidly shifting scenes, from colorful glassworks to bustling city traffic. The camera pans rapidly in sync with the strong musical rhythm, quickly zooming in on grand architectural panoramas and employing stretching and blurring transitions. Strong neon lights sweep across the screen with dynamic light trails. The vibrant and bright color scheme, a blend of traditional Chinese and modern aesthetics, and 4K high definition create a visually striking experience. The sound effects include powerful, rhythmic drum beats and a modern electronic music mix.
+```
+
+📌 Details  
+
+Author: @SVD_Studio_0 
+
+Source: [Twitter Post](https://x.com/SVD_Studio_Q/status/2028376637516214365?s=20)  
+
+Published: March 2, 2026
+
+
+### No.3 Golden eagle flying through a city and landing
+
+🎬 **Video**
 
 https://github.com/user-attachments/assets/7f752298-b0c8-4057-a428-7e9488d921c7
-
 
 📝 **Prompt**
 
@@ -40,7 +80,7 @@ Hyper-realistic cinematic footage: A golden eagle takes off from a rocky cliff a
 
 📌 Details  
 Author: OwnDay1819  
-Source:   
+Source: Reddit
 Published: March 1, 2026
 
 ## 🚀 How to Write Seedance 2.0 Prompts?
