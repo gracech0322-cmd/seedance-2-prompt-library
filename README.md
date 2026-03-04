@@ -79,9 +79,54 @@ Hyper-realistic cinematic footage: A golden eagle takes off from a rocky cliff a
 ```
 
 📌 Details  
+
 Author: OwnDay1819  
-Source: Reddit
+
+Source: [Reddit Post](https://www.reddit.com/r/seedance/comments/1ri3ctl/testing_physics_temporal_consistency_golden_eagle/)  
+
 Published: March 1, 2026
+
+### No.5 Jujutsu Kaisen fighting scenes
+
+🎬 **Video**
+
+https://github.com/user-attachments/assets/04519cf2-f99c-4f57-85ea-fc56b1f54ace
+
+
+
+📝 **Prompt**
+
+```text
+The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.
+```
+
+📌 Details  
+
+Author: Traditional-Table866
+
+Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_tips_for_using_seedance_20_on_chatart/)  
+
+Published: February 27, 2026
+
+### No.6 Airplane transforms into mecha robot
+
+🎬 **Video**
+
+https://github.com/user-attachments/assets/60902aa1-6b26-409a-adc7-357517ce2741
+
+📝 **Prompt**
+
+```text
+9:16 Vertical screen mobile phone shooting perspective, real passerby live recording footage, slight handheld shaking, automatic exposure adjustment, focus adjustment, real environmental sound recording, distant city skyline clearly visible. An airport runway near the city center, with a modern metropolis of towering buildings in the background. A large twin-engine wide-body passenger jet is making a low-altitude approach, preparing to land, landing gear already down, the roar of engines deafening. Just before touchdown, the aircraft's fuselage begins to undergo mechanical restructuring—wings fold and disintegrate, fuselage panels slide and unfold, complex metal parts are precisely assembled, hydraulic structures extend and rotate, gears and armor plates are rapidly reconstructed. Highly complex industrial-grade mechanical transformation animation, realistic metal materials, substantial weight, and extremely precise mechanical details. The aircraft completely transforms into a giant metal robot, shattering the runway upon landing, sending debris flying and shockwaves spreading. The robot then rushes into the city, running at high speed, its footsteps crushing asphalt, collapsing streetlights, overturning cars, shattering building windows, and filling the air with smoke and dust. Featuring hyper-realistic, cinematic visuals, a realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and stunning explosions. While maintaining a "live-streaming mobile phone quality" feel, it boasts Hollywood-level visual effects and IMAX-level detail.
+```
+
+📌 Details  
+
+Author: mhu99
+
+Source: [Reddit Post](https://www.reddit.com/r/singularity/comments/1rblgp0/just_with_a_single_prompt_and_this_result_is/)  
+
+Published: February 23, 2026
 
 ## 🚀 How to Write Seedance 2.0 Prompts?
 
