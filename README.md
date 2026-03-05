@@ -1,11 +1,12 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 4, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 5, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
 * [📄 About this Project](#-about-this-project)
 * [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
-* [🔥 Featured Prompts](#-featured-prompts)
+* [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
+* [💗 10 Useful Prompt Templates](#-10-useful-prompt-templates)
 
 ## 📄 About This Project
 This is a simple library of "AI video recipes." We share prompts that actually work.
@@ -26,7 +27,27 @@ All prompts are collected from the community (such as Reddit, X, WeChat, and oth
 
 ## 🔥 Featured Prompts
 
-### No.1 BRAIN DRAIN
+### No.1 Dog Vlog
+
+🎬 **Video**
+
+
+https://github.com/user-attachments/assets/bce09650-4cb8-479c-b8e1-36264ba2d145
+
+📝 **Prompt**
+```text
+[Scene and Subject] A small white Pomeranian wearing adorable pajamas stands on its hind legs in front of a bright bathroom sink, facing a large mirror. [Action and Camera Movement] 0-3 seconds: The opening is a close-up of the mirror. The dog holds a pink toothbrush larger than its face in one paw and a phone in the other, taking a selfie in the mirror. It tilts its head curiously and clumsily tries to put the toothbrush in its mouth. 3-7 seconds: The camera switches to a medium shot behind the dog (mimicking a phone on a tripod). The dog starts brushing its teeth diligently, up and down, left and right, white foam bubbling from its mouth. 7-10 seconds: The camera slowly zooms in on its face. As the dog brushes, it suddenly winks at its reflection (and the camera), giving a super cute "smile," before continuing to brush its teeth intently. [Sound and Atmosphere] The entire sequence is accompanied by the soft vibration of an electric toothbrush (this playful sound can be simulated even with a non-electric one). Upbeat ukulele music plays in the background. The puppy occasionally makes muffled "woof woof" sounds while brushing its teeth, almost like humming a song. Finally, when it blinks, a cute sound effect (like a "ding") plays.
+```
+
+📌 Details  
+
+Author: @Seedance2A8340  
+
+Source: [Twitter Post](https://x.com/Seedance2A8340)  
+
+Published: March 5, 2026
+
+### No.2 BRAIN DRAIN
 
 🎬 **Video**
 
@@ -45,7 +66,7 @@ Source: [Twitter Post](https://x.com/AleRVG)
 
 Published: March 4, 2026
 
-### No.2 The vibrant modern cityscape of Zibo
+### No.3 The vibrant modern cityscape of Zibo
 
 🎬 **Video**
 
@@ -66,7 +87,7 @@ Source: [Twitter Post](https://x.com/SVD_Studio_Q/status/2028376637516214365?s=2
 Published: March 2, 2026
 
 
-### No.3 Golden eagle flying through a city and landing
+### No.4 Golden eagle flying through a city and landing
 
 🎬 **Video**
 
@@ -308,4 +329,31 @@ Define the Type:
 **Example:**
 ```text
 Re-plot @Video1. The character picks up the phone instead of walking away. Use @Image1 for the new phone design. Keep the original cinematic lighting and medium shot camera angle.
+```
+
+## 💗 10 Useful Prompt Templates
+
+### Text to Video
+
+When you face Seedance 2.0 and don’t know where to start, just use a template. Replace the words in ___ and run it first.  
+
+**Prompt template:**
+```text
+___ style. ___ (character description) in ___ (place / time / mood).
+___ (what happens / action). ___ (extra emotion or atmosphere).
+Dialogue: ___ says, “.” ___ replies, “.”
+End with ___ (final shot / subtitle / fade to black).
+```
+
+**Example:**
+```text
+Chinese animation movie style.
+A and B stand on a cliff at night. Moonlight shines. Sea fog moves around them.
+They start far apart, then slowly move closer. A reaches out and stops B. A looks calm and firm.
+
+Dialogue:
+B says, “You want to control me again?”
+A replies, “I’m not trying to control you… I just don’t want you to get hurt.”
+
+End with both of them standing side by side, looking at the sea.
 ```
