@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 5, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 6, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
@@ -27,7 +27,120 @@ All prompts are collected from the community (such as Reddit, X, WeChat, and oth
 
 ## 🔥 Featured Prompts
 
-### No.1 Dog Vlog
+### No.1 Cat Drama: Frome Betrayal to Rebirth
+
+🎬 **Video**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42a541bc-cb32-478d-89ca-c405f3034667" width="600">
+</p>
+
+Video is too big, you can [click here to watch this drama](https://www.instagram.com/p/DVhs5kVCISi/)
+
+📝 **Prompt**
+```text
+[0–4s] Scene 1: The Betrayal
+Style: Cinematic, cold tones, heavy rain at night.
+
+Characters: * White Cat (Ref 1): Soaked, fur matted to skin, shivering by a trash can. Desperate, teary eyes looking toward a luxury car.
+
+Blue Cat (Ref 2): Sitting in the warm glow of the car's backseat, tenderly feeding canned tuna to the Siamese Cat (Ref 3).
+
+Siamese Cat (Ref 3): Smugly leaning into Blue Cat’s arms.
+
+Environment: Gritty, wet alley with puddles vs. Warm, opulent car interior (high contrast).
+
+Action: White Cat looks up, eyes shifting from hope to heartbreak; Blue Cat feeds Siamese Cat; Siamese Cat rubs chin against Blue Cat.
+
+Emotion: Betrayal, heartbreak, helplessness.
+
+Camera: Wide shot establishing environment → slow zoom into a close-up of White Cat’s tearful eyes. (One continuous shot).
+
+Audio: Sad solo piano, low and slow, mixed with rain ambiance; cello swells during the tear drop.
+
+[4–8s] Scene 2: The Rebirth
+Style: Cinematic. Cold rain transitions to bright luxury.
+
+Characters: * White Cat (Ref 1): Suddenly stands up in the rain, shaking off water. Expression shifts from pity to icy ruthlessness.
+
+Post-Transition: Fur becomes fluffy and pristine. Wearing a silk robe, elegantly putting on a pearl necklace in front of a mirror.
+
+Environment: Rain-slicked street → Golden-lit walk-in closet with jewelry and mirrors.
+
+Action: Slow-motion water shaking; sharp zoom on eyes; walking to the mirror; putting on the necklace with a confident, vengeful smirk.
+
+Emotion: "Blackened" heart, determination, rebirth, revenge.
+
+Camera: Low-angle shot of shaking water → fast zoom to eyes → cut to mid-shot in closet → slow push toward the mirror reflection.
+
+Audio: Thunderclap transitions into a powerful electronic beat + epic orchestral score; a sharp "ding" sound when the necklace is fastened.
+
+[8–11s] Scene 3: The Grand Entrance
+Style: Cinematic, grand ballroom, warm golden hues.
+
+Characters: * White Cat (Ref 1): Wearing a pale purple lace gown and diamond hairpiece. Walking arm-in-arm with Black Cat Prince (Ref 4).
+
+Black Cat Prince (Ref 4): Wearing a black tuxedo and velvet bowtie. Gentle, deep gaze.
+
+Blue Cat (Ref 2): Sees White Cat from afar, freezes, pupils dilate in regret/awe.
+
+Siamese Cat (Ref 3): Furious, eyes filled with jealousy, claws clenching.
+
+Environment: Crystal chandeliers, red carpet, blurred guests.
+
+Action: Slow-motion entry; Blue Cat stares in shock; Siamese Cat glares with rage.
+
+Emotion: Stunning, regret, jealousy.
+
+Camera: Low-angle tracking shot of the entrance → over-the-shoulder shot of Blue Cat’s reaction → close-up on Siamese Cat’s face.
+
+Audio: Grand orchestral waltz; discordant pause when Blue Cat appears; sharp, hurried strings for Siamese Cat.
+
+[11–13s] Scene 4: The Slap
+Style: Cinematic, tense conflict.
+
+Characters: * Siamese Cat (Ref 3): Sinister gaze, approaches with a wine glass, feigns a slip to splash wine on White Cat.
+
+White Cat (Ref 1): Sharp eyes, agile dodge, then delivers a clean, swift slap to Siamese Cat’s face.
+
+Environment: Guests gasp and step back, clearing the center.
+
+Action: Fake slip/splash → agile dodge → the slap → Siamese Cat falls, glass shattering.
+
+Emotion: Sabotage, counter-attack, satisfaction.
+
+Camera: Close-up of wine splashing → tracking the dodge → close-up of the slap → high-angle shot of Siamese Cat on the ground.
+
+Audio: Tense low strings/timpani; silence during the splash; sharp "slap" sound + glass shattering; short, victorious brass swell.
+
+[13–15s] Scene 5: The Queen's Exit
+Style: Cinematic, victor's aura.
+
+Characters: * White Cat (Ref 1): Glances down contemptuously at Siamese Cat, takes Black Cat’s arm, and walks away with "Queen energy."
+
+Blue Cat (Ref 2): Hesitant, filled with regret in the crowd.
+
+Siamese Cat (Ref 3): Pathetic on the floor, blurred in the background.
+
+Action: Scornful glance → turning away → slow-motion exit; guests part ways in admiration.
+
+Emotion: Contempt, victory, regret.
+
+Camera: Frontal mid-shot → side tracking shot of their backs → slow pull-out to a wide freeze frame.
+
+Audio: Magnificent victory symphony + soaring female vocals; volume ducks for the final glance; music swells and cuts sharply at the end.
+```
+
+📌 Details  
+
+Author: @seedance2aivideo
+
+
+
+Source: [Ins Post](https://www.instagram.com/p/DVhs5kVCISi/)  
+
+Published: March 5, 2026
+
+### No.2 Dog Vlog
 
 🎬 **Video**
 
@@ -47,7 +160,7 @@ Source: [Twitter Post](https://x.com/Seedance2A8340)
 
 Published: March 5, 2026
 
-### No.2 BRAIN DRAIN
+### No.3 BRAIN DRAIN
 
 🎬 **Video**
 
@@ -66,7 +179,7 @@ Source: [Twitter Post](https://x.com/AleRVG)
 
 Published: March 4, 2026
 
-### No.3 The vibrant modern cityscape of Zibo
+### No.4 The vibrant modern cityscape of Zibo
 
 🎬 **Video**
 
@@ -87,7 +200,7 @@ Source: [Twitter Post](https://x.com/SVD_Studio_Q/status/2028376637516214365?s=2
 Published: March 2, 2026
 
 
-### No.4 Golden eagle flying through a city and landing
+### No.5 Golden eagle flying through a city and landing
 
 🎬 **Video**
 
@@ -107,7 +220,7 @@ Source: [Reddit Post](https://www.reddit.com/r/seedance/comments/1ri3ctl/testing
 
 Published: March 1, 2026
 
-### No.5 Jujutsu Kaisen fighting scenes
+### No.6 Jujutsu Kaisen fighting scenes
 
 🎬 **Video**
 
@@ -129,7 +242,7 @@ Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_
 
 Published: February 27, 2026
 
-### No.6 Airplane transforms into mecha robot
+### No.7 Airplane transforms into mecha robot
 
 🎬 **Video**
 
