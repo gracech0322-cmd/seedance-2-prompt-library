@@ -6,7 +6,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 * [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
-* [💗 10 Useful Prompt Templates](#-10-useful-prompt-templates)
+* [💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos](#-7-popular-seedance-20-prompts-to-start-creating-ai-videos)
 
 ## 📄 About This Project
 This is a simple library of "AI video recipes." We share prompts that actually work.
@@ -444,29 +444,242 @@ Define the Type:
 Re-plot @Video1. The character picks up the phone instead of walking away. Use @Image1 for the new phone design. Keep the original cinematic lighting and medium shot camera angle.
 ```
 
-## 💗 10 Useful Prompt Templates
 
-### Text to Video
+## 💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos
 
-When you face Seedance 2.0 and don’t know where to start, just use a template. Replace the words in ___ and run it first.  
+When you face Seedance 2.0 and don’t know where to start, using a prompt template is the easiest way.  
+Replace the words in **___** with your own ideas and generate your first video.
 
-**Prompt template:**
-```text
+---
+
+### 1. Cinematic Style
+
+If you want a movie-like scene, focus on **camera movement, lighting, and atmosphere**.
+
+**Prompt Template**
+
+```
+Cinematic film style. ___ (main character) in ___ (location).
+
+Camera ___ (camera movement).
+Lighting ___ (lighting style).
+
+___ (main action happening).
+
+Atmosphere: ___ (fog / rain / dramatic light).
+
+End with ___ (epic final shot).
+```
+
+**Example**
+
+Cinematic film style.  
+A lone warrior stands in a ruined city at sunset.
+
+Camera slowly pushes forward.  
+Orange light shines through smoke.
+
+The warrior walks forward and draws a glowing sword.  
+Wind blows dust across the street.
+
+End with a wide shot of the warrior standing against the burning skyline.
+
+---
+
+### 2. Anime & Animation
+
+Anime prompts usually work best with **dynamic poses and dramatic action**.
+
+**Prompt Template**
+
+```
+Anime style animation. ___ (character description).
+
+Location: ___ (fantasy place / city / battlefield).
+
+The character ___ (action or attack).
+
+Energy / effects: ___ (light, magic, particles).
+
+End with ___ (dramatic anime pose).
+```
+
+**Example**
+
+Anime style animation.  
+A young swordsman with silver hair.
+
+Location: a floating island above the clouds.
+
+He jumps into the air and swings his sword, releasing a glowing blue energy wave.
+
+End with the swordsman landing and pointing the sword forward.
+
+---
+
+### 3. Short Drama
+
+Short drama prompts focus on **story, emotion, and dialogue**.
+
+**Prompt Template**
+
+```
 ___ style. ___ (character description) in ___ (place / time / mood).
-___ (what happens / action). ___ (extra emotion or atmosphere).
-Dialogue: ___ says, “.” ___ replies, “.”
+
+___ (what happens / action).
+___ (extra emotion or atmosphere).
+
+Dialogue:
+___ says, “___.”
+___ replies, “___.”
+
 End with ___ (final shot / subtitle / fade to black).
 ```
 
-**Example:**
-```text
-Chinese animation movie style.
+**Example**
+
+Chinese animation movie style.  
 A and B stand on a cliff at night. Moonlight shines. Sea fog moves around them.
-They start far apart, then slowly move closer. A reaches out and stops B. A looks calm and firm.
+
+They start far apart, then slowly move closer.  
+A reaches out and stops B. A looks calm and firm.
 
 Dialogue:
-B says, “You want to control me again?”
+
+B says, “You want to control me again?”  
 A replies, “I’m not trying to control you… I just don’t want you to get hurt.”
 
 End with both of them standing side by side, looking at the sea.
+
+---
+
+### 4. Advertising & Brand
+
+Brand videos should highlight **product, lighting, and premium feeling**.
+
+**Prompt Template**
+
 ```
+Luxury commercial style.
+
+A ___ (product) placed on ___ (surface / environment).
+
+Camera ___ (slow rotation / macro shot).
+
+Lighting ___ (soft light / dramatic light).
+
+The product ___ (main highlight moment).
+
+End with ___ (brand style final shot).
+```
+
+**Example**
+
+Luxury commercial style.
+
+A silver watch placed on a black marble table.
+
+Camera slowly rotates around the watch.  
+Soft light reflects from the metal.
+
+The watch hands move slowly as tiny light reflections sparkle.
+
+End with a clean close-up of the watch face.
+
+---
+
+### 5. Social Media & Viral
+
+Viral videos usually focus on **funny or surprising moments**.
+
+**Prompt Template**
+
+```
+Social media viral video style.
+
+___ (character or animal) in ___ (normal situation).
+
+Suddenly ___ (unexpected event).
+
+Reaction: ___ (funny or exaggerated reaction).
+
+End with ___ (meme moment).
+```
+
+**Example**
+
+Social media viral video style.
+
+A cat sits calmly in a small toy car.
+
+Suddenly the car starts rolling downhill very fast.
+
+The cat’s eyes go wide and it starts screaming.
+
+End with the cat zooming past the camera.
+
+---
+
+### 6. UGC Style
+
+UGC videos should feel **casual and real**, like smartphone recordings.
+
+**Prompt Template**
+
+```
+UGC smartphone video style.
+
+___ (person) recording themselves in ___ (daily place).
+
+They talk about ___ (product / experience).
+
+Natural lighting. Slight handheld camera movement.
+
+End with ___ (casual closing moment).
+```
+
+**Example**
+
+UGC smartphone video style.
+
+A young woman recording herself in her bedroom.
+
+She shows a skincare product and talks about how she uses it.
+
+Natural daylight from the window. Casual tone.
+
+End with her smiling and waving at the camera.
+
+---
+
+### 7. VFX & Experimental
+
+These prompts focus on **visual effects and surreal visuals**.
+
+**Prompt Template**
+
+```
+Experimental VFX style.
+
+___ (object or character) made of ___ (particles / light / liquid).
+
+The object ___ (transforms / explodes / reforms).
+
+Visual effects: ___ (particles / energy waves / abstract motion).
+
+End with ___ (final abstract visual).
+```
+
+**Example**
+
+Experimental VFX style.
+
+A human figure made of glowing particles.
+
+The figure slowly breaks apart into thousands of lights.
+
+Particles swirl through the air like a galaxy.
+
+End with the particles forming a bright star.
+
+
