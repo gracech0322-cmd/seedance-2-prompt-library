@@ -2,15 +2,31 @@
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
+* [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
-* [💗 7 Essential Video Prompt Categories & Examples](#-7-essential-video-prompt-categories-&-examples)
 * [📄 About this Project](#-about-this-project)
+
+## 💗 What Is Seedance 2.0
+
+**Seedance 2.0** is a multimodal video model launched by ByteDance in February 2026. It supports four modalities of input: **image, video, audio, and text**, offering richer expression and more stable generation results.
+
+| Core Dimension | Seedance 2.0 Capabilities |
+| :--- | :--- |
+| **Image Input** | • Up to **9 images** <br> • Size: Less than **30 MB** |
+| **Image Formats** | jpeg, png, webp, bmp, tiff, gif |
+| **Video Input** | • Up to **3 videos**, total duration **[2, 15] s** <br> • Size: Less than **50 MB** <br> • Total pixel range: [409,600 (480p) to 927,408 (720p)] <br> *(Note: Using reference videos may be slightly more "expensive")* |
+| **Video Formats** | mp4, mov |
+| **Audio Input** | • Up to **3 files**, total duration ≤ **15s** <br> • Size: Less than **15 MB** |
+| **Audio Formats** | mp3, wav |
+| **Text Input** | Natural Language |
+| **Generation Duration** | **≤ 15s**, selectable between 4–15s |
+| **Audio Output** | Built-in sound effects / Background music |
+| **Interaction Limits** | The total limit for mixed input is **12 files**. Priority should be given to materials that significantly impact visual composition or rhythm. |
 
 
 ## 🤔 How to Access Seedance 2.0
-
 
 Right now, there is **no single global entry** for Seedance 2.0.  
 Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
