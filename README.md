@@ -3,7 +3,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 
 ## 📖 Table of Contents
 * [📄 About this Project](#-about-this-project)
-* [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
+* [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos](#-7-popular-seedance-20-prompts-to-start-creating-ai-videos)
@@ -17,13 +17,38 @@ This is a simple library of "AI video recipes." We share prompts that actually w
 ⚠️ Copyright Notice:
 All prompts are collected from the community (such as Reddit, X, WeChat, and other platforms) and are shared for educational purposes only. If you are a copyright owner and would like any content removed, please submit a removal request by opening an Issue with relevant details and proof of ownership.
 
-## 🤔 What is Seedance 2.0?
-[Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) is a powerful tool for making AI movies. It is better than standard tools because:
-- Real Control: Use your own photos and videos as guides.
-- No Glitches: Characters stay the same from start to finish.
-- Great Sound: Faces move perfectly with the audio.
-- High Quality: Every video looks like a real movie.
-![seedance2 0 homepage](https://github.com/user-attachments/assets/042b44fe-2493-44aa-a88b-c9f718b18ae1)
+## 🤔 How to Access Seedance 2.0
+
+## How to Access Seedance 2.0
+
+Right now, there is **no single global entry** for Seedance 2.0.  
+Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
+
+There are three main ways people access Seedance 2.0 today:
+
+1. **Official websites**
+2. **Official apps**
+3. **Third-party websites**
+
+The table below shows the main options and their requirements.
+
+| Access Method | Platform | Requirements | Notes |
+|---|---|---|---|
+| **Official Website** | [Jimeng](https://jimeng.jianying.com/)| Chinese phone number + VPN | Official Seedance access via web |
+| **Official Website** | [Capcut](https://dreamina.capcut.com/) | None | Seedance 2.0 was previously available, but it is **currently disabled** |
+| **Official App** | DouBao | Chinese phone number + VPN | Official mobile access |
+| **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
+| **Third-Party Website** | [Seedance2-AI](https://seedance2-ai.ai/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
+
+**Important: Generation Queue**
+
+No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
+
+Most users report waiting:
+
+**2–10 hours** before their video is generated.
+
+This happens because the model is still limited in computing capacity and many creators are trying it at the same time.
 
 ## 🔥 Featured Prompts
 
@@ -264,15 +289,28 @@ Published: February 23, 2026
 
 ## 🚀 How to Write Seedance 2.0 Prompts?
 
-To create better videos with Seedance 2.0, structure your prompt around these five key dimensions:
+To create better videos with Seedance 2.0, structure your prompt around these six key dimensions:
 
-| Dimension | What to Think About | What It Means |
-|------------|--------------------|---------------|
-| I. Input | What reference materials are you using? What is each one for? | List your image, video, or style references and explain their purpose (character look, environment, lighting, motion style, etc.). |
-| II. Content | What happens in the scene? (visual + audio) | Describe the characters, environment, actions, emotions, dialogue, narration, and sound effects. Be clear about what is happening. |
-| III. Cinematography | How is it filmed? How does the camera move? | Specify camera movement (pan, tilt, tracking shot), shot type (close-up, wide shot), angle, and composition rules. |
-| IV. Structure | How is time organized? | Define the timeline. What happens in the first 0–3 seconds? How does the scene transition? What is the pacing? |
-| V. Edit | What should change or stay the same? | Clarify the editing goal. Should style remain consistent? Are you modifying motion, lighting, or mood? What is the final output style? |
+Before we start, here are two common questions.
+
+**1. Do I need to follow the order of the six dimensions?**  
+No. Just write your prompt in a natural way.
+
+**2. Do I need to include all six dimensions?**  
+No. Use only what you need.
+
+If you **skip a dimension**, the model will use **default settings or generate freely**.
+
+The table below helps you quickly understand how to write prompts.
+
+| Dimension | Key Question | Example | Skip if Not Needed |
+|---|---|---|---|
+| **Input** | What source material is used? (image, video, audio) | Upload a file and reference it with **@** (e.g., use the dance move from **@video1**) | ✓ |
+| **Content** | What is happening in the scene? | Character + scene + action + mood (e.g., a girl dancing on the street, relaxed and energetic, using the dance move from **@video1**) |  |
+| **Style** | What visual or music style do you want? | Artistic style + lighting + texture + music (e.g., Studio Ghibli style, warm tones, soft piano BGM) | ✓ |
+| **Camera** | How should the scene be filmed? | Shot type + camera movement + angle (e.g., medium shot, slow push-in, eye level) | ✓ |
+| **Structure** | What is the timeline or sequence? | Describe timing (e.g., 0–3s start dancing, 3–6s spin, 6–10s finish pose) | ✓ |
+| **Edit** | Do you want to modify something? | Specific edit request (e.g., replace the cat in **@video1** with a dog) | ✓ |
 
 ### Input
 
@@ -325,7 +363,58 @@ When using these assets in your prompts, use the following simple sentence struc
 Commercial Style. The girl from @Image1 is by the window in the early morning. She slowly lifts a cup of coffee and takes a sip. She smiles and whispers, "So good." Relaxed and happy music plays in the room.
 ```
 
-### Cinemetography
+### Style
+
+This layer sets the **look and the sound** of the video.
+
+It answers two questions:
+
+- What does it **look like**?
+- What does it **feel like to hear**?
+
+The goal is to give the video **one clear mood**.  
+It sets the tone for the image, light, color, texture, and music.
+
+This dimension includes:
+
+- **Visual style** (photo, animation, Chinese style, film look, etc.)
+- **Lighting** (light setup, shadows, texture light, god rays, Rembrandt lighting)
+- **Color tone** (main color, color palette, dark tone, high saturation, overexposure)
+- **Texture** (film grain, soft blur, sharpness, glow, layered depth)
+- **Atmosphere** (luxury, moody, lazy, mystical, healing, premium feeling)
+- **Music style** (rhythm, emotion, transitions, beat sync, instruments)
+
+A simple way to write it:
+
+First set the **overall style**.  
+Then add lighting, color, texture, mood, and music.
+
+This helps the model understand the **vibe of the video** from the start.
+
+You can write it like this:
+
+• **Visual Style:** XXX  
+• **Lighting:** XXX  
+• **Color Tone:** XXX  
+• **Texture:** XXX  
+• **Atmosphere:** XXX  
+• **Music:** XXX  
+
+Example:
+
+• **Visual Style:** Portrait photography style, mixed with dreamcore and Liaozhai fantasy
+
+• **Lighting:** Strong gray side light with Rembrandt lighting, texture light mixed with natural light, visible god rays
+
+• **Color Tone:** Purple as the main color, dark base tone, some bright highlights and overexposure
+
+• **Texture:** Film grain, soft long-shutter blur, rich layers, glowing gold and silver jewelry
+
+• **Atmosphere:** Elegant and luxurious, slightly mystical, relaxed and moody, loose hair moving in the air
+
+• **Music:** Calm and relaxed before the outfit change; classical music with strong beat sync after the change
+
+### Camera
 
 This layer answers the question: How does the camera move? It does not care about what is being filmed (the previous layer handles that). 
 
