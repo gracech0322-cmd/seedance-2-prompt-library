@@ -463,7 +463,7 @@ Published: March 4, 2026
 
 UGC videos should feel **casual and real**, like smartphone recordings.
 
-**Prompt Template**
+### Prompt Template
 
 ```
 UGC smartphone video style.
@@ -477,12 +477,25 @@ Natural lighting. Slight handheld camera movement.
 End with ___ (casual closing moment).
 ```
 
+#### Example
+
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`engaging ugc ad video of a young white woman in her bathroom talking about how she uses the reset undereye patches putting them on.`</details> | <img src="./images/product.webp" width="300px" alt="product"> | <video src="https://github.com/user-attachments/assets/b86899e9-1c9f-4bf8-a9ee-1994f5fc5b2e" width="320px" controls></video> |
+
+📌 Details  
+
+Author: zeroludesigner  
+
+Source: [Reddit Post](https://www.reddit.com/r/AI_UGC_Marketing/comments/1re3xma/are_we_cooked_i_just_used_seedance_20_to_create/)  
+
+Published: February 25, 2026
 
 ### 7. Creative VFX
 
 These prompts focus on **visual effects and surreal visuals**.
 
-**Prompt Template**
+#### Prompt Template
 
 ```
 Experimental VFX style.
@@ -496,53 +509,11 @@ Visual effects: ___ (particles / energy waves / abstract motion).
 End with ___ (final abstract visual).
 ```
 
-### No.5 Golden eagle flying through a city and landing
+#### Example
 
-🎬 **Video**
-
-https://github.com/user-attachments/assets/7f752298-b0c8-4057-a428-7e9488d921c7
-
-📝 **Prompt**
-
-```text
-Hyper-realistic cinematic footage: A golden eagle takes off from a rocky cliff at dawn, wings spread, feathers clearly visible with aerodynamic drag. It glides forward, banking left to avoid a hanging construction crane cable, then climbs sharply over a rooftop antenna array. Wings flex slightly under air resistance, primary feathers bending independently, interacting realistically with the airflow. Breath steam is faintly visible in the cold morning air during a close flyby. The camera tracks parallel at a medium distance using stabilized aerial equipment, with slight natural shake from wind turbulence. The background reveals a dense city skyline enveloped in morning mist, low-angle eastern sunlight casting long shadows across glass facades. As the eagle's downdraft interacts with the environment, the wind blows loose dust and confetti on the roof. The eagle approaches the roof of a modern concrete high-rise. Through controlled wing flaps, momentum gradually decreases, talons extend forward, muscles visibly tense, and micro-adjustments are made for balance. It lands firmly on a large metal rooftop sign that reads "Ambition". Talons grip the metal surface, causing slight vibration and audible metallic resonance. Center of gravity shifts forward then stabilizes. Feathers naturally fall into place. The eagle scans the horizon with subtle head twitches and blinks. Maintain stable temporal consistency. Avoid unnatural frame interpolation. No exaggerated slow motion. Realistic physics, accurate center of gravity shifts, true avian anatomy, environmental reaction to forces.
-```
-
-📌 Details  
-
-Author: OwnDay1819  
-
-Source: [Reddit Post](https://www.reddit.com/r/seedance/comments/1ri3ctl/testing_physics_temporal_consistency_golden_eagle/)  
-
-Published: March 1, 2026
-
-### No.6 Jujutsu Kaisen fighting scenes
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/04519cf2-f99c-4f57-85ea-fc56b1f54ace
-
-
-
-📝 **Prompt**
-
-```text
-The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.
-```
-
-
-
-### No.7 Airplane transforms into mecha robot
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/60902aa1-6b26-409a-adc7-357517ce2741
-
-📝 **Prompt**
-
-```text
-9:16 Vertical screen mobile phone shooting perspective, real passerby live recording footage, slight handheld shaking, automatic exposure adjustment, focus adjustment, real environmental sound recording, distant city skyline clearly visible. An airport runway near the city center, with a modern metropolis of towering buildings in the background. A large twin-engine wide-body passenger jet is making a low-altitude approach, preparing to land, landing gear already down, the roar of engines deafening. Just before touchdown, the aircraft's fuselage begins to undergo mechanical restructuring—wings fold and disintegrate, fuselage panels slide and unfold, complex metal parts are precisely assembled, hydraulic structures extend and rotate, gears and armor plates are rapidly reconstructed. Highly complex industrial-grade mechanical transformation animation, realistic metal materials, substantial weight, and extremely precise mechanical details. The aircraft completely transforms into a giant metal robot, shattering the runway upon landing, sending debris flying and shockwaves spreading. The robot then rushes into the city, running at high speed, its footsteps crushing asphalt, collapsing streetlights, overturning cars, shattering building windows, and filling the air with smoke and dust. Featuring hyper-realistic, cinematic visuals, a realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and stunning explosions. While maintaining a "live-streaming mobile phone quality" feel, it boasts Hollywood-level visual effects and IMAX-level detail.
-```
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`9:16 Vertical screen mobile phone shooting perspective, real passerby live recording footage, slight handheld shaking, automatic exposure adjustment, focus adjustment, real environmental sound recording, distant city skyline clearly visible. An airport runway near the city center, with a modern metropolis of towering buildings in the background. A large twin-engine wide-body passenger jet is making a low-altitude approach, preparing to land, landing gear already down, the roar of engines deafening. Just before touchdown, the aircraft's fuselage begins to undergo mechanical restructuring—wings fold and disintegrate, fuselage panels slide and unfold, complex metal parts are precisely assembled, hydraulic structures extend and rotate, gears and armor plates are rapidly reconstructed. Highly complex industrial-grade mechanical transformation animation, realistic metal materials, substantial weight, and extremely precise mechanical details. The aircraft completely transforms into a giant metal robot, shattering the runway upon landing, sending debris flying and shockwaves spreading. The robot then rushes into the city, running at high speed, its footsteps crushing asphalt, collapsing streetlights, overturning cars, shattering building windows, and filling the air with smoke and dust. Featuring hyper-realistic, cinematic visuals, a realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and stunning explosions. While maintaining a "live-streaming mobile phone quality" feel, it boasts Hollywood-level visual effects and IMAX-level detail.`</details> | None | <video src="https://github.com/user-attachments/assets/c4750ff4-000e-4dc9-ab8f-530e7a0448bc" width="320px" controls></video> |
 
 📌 Details  
 
