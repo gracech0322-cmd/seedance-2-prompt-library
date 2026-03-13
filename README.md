@@ -10,6 +10,8 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 
 ## 💗 What Is Seedance 2.0
 
+![seedance homepage](images/seedance2.jpg)
+
 **Seedance 2.0** is a multimodal video model launched by ByteDance in February 2026. It supports four modalities of input: **image, video, audio, and text**, offering richer expression and more stable generation results.
 
 | Core Dimension | Seedance 2.0 Capabilities |
