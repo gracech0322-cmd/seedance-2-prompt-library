@@ -2,24 +2,15 @@
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
-* [📄 About this Project](#-about-this-project)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos](#-7-popular-seedance-20-prompts-to-start-creating-ai-videos)
+* [📄 About this Project](#-about-this-project)
 
-## 📄 About This Project
-This is a simple library of "AI video recipes." We share prompts that actually work.
-- Copy and Paste: Use our prompts to get great results instantly.
-- Save Time: No more guessing. Use proven workflows.
-- Free Forever: Open to everyone.
-
-⚠️ Copyright Notice:
-All prompts are collected from the community (such as Reddit, X, WeChat, and other platforms) and are shared for educational purposes only. If you are a copyright owner and would like any content removed, please submit a removal request by opening an Issue with relevant details and proof of ownership.
 
 ## 🤔 How to Access Seedance 2.0
 
-## How to Access Seedance 2.0
 
 Right now, there is **no single global entry** for Seedance 2.0.  
 Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
@@ -764,6 +755,15 @@ End with ___ (final abstract visual).
 Experimental VFX style.
 
 A human figure made of glowing particles.
+
+## 📄 About This Project
+This is a simple library of "AI video recipes." We share prompts that actually work.
+- Copy and Paste: Use our prompts to get great results instantly.
+- Save Time: No more guessing. Use proven workflows.
+- Free Forever: Open to everyone.
+
+⚠️ Copyright Notice:
+All prompts are collected from the community (such as Reddit, X, WeChat, and other platforms) and are shared for educational purposes only. If you are a copyright owner and would like any content removed, please submit a removal request by opening an Issue with relevant details and proof of ownership.
 
 The figure slowly breaks apart into thousands of lights.
 
