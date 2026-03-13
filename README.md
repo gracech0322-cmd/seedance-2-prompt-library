@@ -58,7 +58,7 @@ This happens because the model is still limited in computing capacity and many c
 
 | Prompt (Expand to Copy) | Reference Image | Final Result |
 | :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary><br>`The camera follows a man in black fleeing rapidly, pursued by a crowd. The shot transitions to a side-tracking view. In panic, the man crashes into a fruit stand by the roadside, quickly scrambles up, and continues running amidst the chaotic sounds of the crowd.`</details> | <img src="./images/seedance-cinematic-demo.jpg" width="300px" alt="Seedance 2.0 Cinematic Cityscape"> | <video src="这里替换成你从Issue生成的视频链接" width="320px" controls></video> |
+| <details><summary>View Full Prompt</summary><br>`The camera follows a man in black fleeing rapidly, pursued by a crowd. The shot transitions to a side-tracking view. In panic, the man crashes into a fruit stand by the roadside, quickly scrambles up, and continues running amidst the chaotic sounds of the crowd.`</details> | <img src="./images/man.png" width="300px" alt="man-is-running"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
 
 📌 Details  
 
