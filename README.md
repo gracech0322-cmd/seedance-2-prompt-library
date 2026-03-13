@@ -5,7 +5,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
-* [💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos](#-7-popular-seedance-20-prompts-to-start-creating-ai-videos)
+* [💗 7 Seedance 2.0 Use Cases and Prompts](#-7-seedance-20-use-cases-and-prompts)
 * [📄 About this Project](#-about-this-project)
 
 
@@ -15,11 +15,6 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 Right now, there is **no single global entry** for Seedance 2.0.  
 Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
 
-There are three main ways people access Seedance 2.0 today:
-
-1. **Official websites**
-2. **Official apps**
-3. **Third-party websites**
 
 The table below shows the main options and their requirements.
 
@@ -31,13 +26,10 @@ The table below shows the main options and their requirements.
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
 | **Third-Party Website** | [Seedance2-AI](https://seedance2-ai.ai/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
-**Important: Generation Queue**
 
 No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
 
-Most users report waiting:
-
-**2–10 hours** before their video is generated.
+Most users report waiting: **2–10 hours** before their video is generated.
 
 This happens because the model is still limited in computing capacity and many creators are trying it at the same time.
 
@@ -525,7 +517,7 @@ Re-plot @Video1. The character picks up the phone instead of walking away. Use @
 ```
 
 
-## 💗 7 Popular Seedance 2.0 Prompts to Start Creating AI Videos
+## 💗 7 Seedance 2.0 Use Cases and Prompts
 
 When you face Seedance 2.0 and don’t know where to start, using a prompt template is the easiest way.  
 Replace the words in **___** with your own ideas and generate your first video.
@@ -763,6 +755,7 @@ This is a simple library of "AI video recipes." We share prompts that actually w
 - Free Forever: Open to everyone.
 
 ⚠️ Copyright Notice:
+
 All prompts are collected from the community (such as Reddit, X, WeChat, and other platforms) and are shared for educational purposes only. If you are a copyright owner and would like any content removed, please submit a removal request by opening an Issue with relevant details and proof of ownership.
 
 The figure slowly breaks apart into thousands of lights.
