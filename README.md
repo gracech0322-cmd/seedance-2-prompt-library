@@ -5,7 +5,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
-* [💗 7 Seedance 2.0 Use Cases and Prompts](#-7-seedance-20-use-cases-and-prompts)
+* [💗 7 Essential Video Prompt Categories & Examples](#-7-essential-video-prompt-categories-&-examples)
 * [📄 About this Project](#-about-this-project)
 
 
@@ -517,14 +517,14 @@ Re-plot @Video1. The character picks up the phone instead of walking away. Use @
 ```
 
 
-## 💗 7 Seedance 2.0 Use Cases and Prompts
+## 💗 7 Essential Video Prompt Categories & Examples
 
 When you face Seedance 2.0 and don’t know where to start, using a prompt template is the easiest way.  
 Replace the words in **___** with your own ideas and generate your first video.
 
 ---
 
-### 1. Cinematic Style
+### 1. Cinematic Mastery
 
 If you want a movie-like scene, focus on **camera movement, lighting, and atmosphere**.
 
@@ -589,9 +589,9 @@ End with the swordsman landing and pointing the sword forward.
 
 ---
 
-### 3. Short Drama
+### 3. AI Short Series
 
-Short drama prompts focus on **story, emotion, and dialogue**.
+AI short series prompts focus on **story, emotion, and dialogue**.
 
 **Prompt Template**
 
@@ -625,9 +625,9 @@ End with both of them standing side by side, looking at the sea.
 
 ---
 
-### 4. Advertising & Brand
+### 4. Commercial & Ads
 
-Brand videos should highlight **product, lighting, and premium feeling**.
+Commercial videos should highlight **product, lighting, and premium feeling**.
 
 **Prompt Template**
 
@@ -660,7 +660,7 @@ End with a clean close-up of the watch face.
 
 ---
 
-### 5. Social Media & Viral
+### 5. Trending & Viral
 
 Viral videos usually focus on **funny or surprising moments**.
 
@@ -692,7 +692,7 @@ End with the cat zooming past the camera.
 
 ---
 
-### 6. UGC Style
+### 6. Realistic Vlog/UGC
 
 UGC videos should feel **casual and real**, like smartphone recordings.
 
@@ -724,7 +724,7 @@ End with her smiling and waving at the camera.
 
 ---
 
-### 7. VFX & Experimental
+### 7. Creative VFX
 
 These prompts focus on **visual effects and surreal visuals**.
 
