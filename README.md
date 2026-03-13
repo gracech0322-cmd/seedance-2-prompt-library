@@ -73,7 +73,7 @@ End with ___ (epic final shot).
 
 #### Example
 
-| Prompt (Expand to Copy) | Reference Image | Final Result |
+| Prompt | Reference Image | Final Result |
 | :--- | :--- | :--- |
 | <details><summary>View Full Prompt</summary><br>`The camera follows a man in black fleeing rapidly, pursued by a crowd. The shot transitions to a side-tracking view. In panic, the man crashes into a fruit stand by the roadside, quickly scrambles up, and continues running amidst the chaotic sounds of the crowd.`</details> | <img src="./images/man.png" width="300px" alt="man-is-running"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
 
@@ -102,7 +102,7 @@ End with ___ (dramatic anime pose).
 ```
 
 #### Example
-| Prompt (Expand to Copy) | Reference Image | Final Result |
+| Prompt | Reference Image | Final Result |
 | :--- | :--- | :--- |
 | <details><summary>View Full Prompt</summary><br>`The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.`</details> | None | <video src="https://github.com/user-attachments/assets/2f17ab61-b0ec-4734-8b50-7c61175b7881" width="320px" controls></video> |
 
@@ -135,8 +135,7 @@ End with ___ (final shot / subtitle / fade to black).
 
 | Prompt (Expand to Copy) | Reference Image | Final Result |
 | :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary><br>`Cinematic storytelling, dramatic lighting, emotional acting, film camera language.Scene 1 (0–3s) — Misunderstanding  
-Warm yellow bedroom during a thunderstorm. A drunk black cat in a messy suit sleeps on a bed. A mysterious black cat woman with emerald eyes quickly lies beside him, pretending to sleep. A white cat, soaked by rain and holding a gift box, opens the door and sees them together. The gift box drops. Her eyes fill with tears. Scene 2 (3–6s) — Rain Breakdown.Cold stormy night outside the mansion. The white cat runs into heavy rain, slips and falls on the wet street, then slowly stands up and looks back at the house in despair. Scene 3 (6–9s) — Three Years Later. Modern airport scene. The white cat returns elegant and powerful in a purple dress, diamonds, and sunglasses. An assistant hands her documents as she walks confidently. Scene 4 (9–12s) — Reunion. Outside a company building. The black cat sees her and freezes in shock. Papers fall from his hands. She looks at him coldly and turns away. Scene 5 (12–15s) — Goodbye. The white cat leaves in a luxury car. The black cat runs after it but stops and collapses to his knees as the car disappears.`</details> | None | [![breakheart-cat](图片地址)](https://x.com/alexiccw/status/2029894765664215439?s=20) |
+| <details><summary>View Full Prompt</summary>0–4s: On a cold rainy night, a white cat sits by a trash can. Her fur is wet and she looks weak and heartbroken. She looks toward a luxury car nearby. Inside the car, a blue cat gently feeds tuna to a Siamese cat in his arms, while the Siamese cat enjoys it proudly. The white cat’s eyes fill with tears as she realizes she has been betrayed. Music: sad piano with rain sounds. 4–8s: The white cat suddenly stands up in the rain and her eyes change from weak to cold. A lightning flash cuts to a luxury dressing room. Now the white cat is clean and elegant. She wears a silk robe and puts on a pearl necklace while looking into the mirror with a quiet smile of revenge. Music shifts to epic beats and orchestra. 8–11s: In a bright ballroom, the white cat enters with a black cat prince. She wears a purple lace dress and looks confident. The blue cat sees her from afar and freezes with regret. The Siamese cat notices his reaction and becomes angry and jealous. Music: elegant orchestral waltz. 11–13s: The Siamese cat walks toward the white cat with a glass of wine and pretends to slip to spill it on her. The white cat quickly avoids the wine and slaps the Siamese cat. The Siamese cat falls to the floor and the glass breaks while the crowd gasps. 13–15s: The white cat calmly looks down, then turns away and walks out with the black cat prince. Guests move aside for her while the blue cat watches with regret. The Siamese cat sits on the floor in shame. Music rises into a powerful victory theme.</details> | <p> <img src="./images/white-cat.png" width="120"> <img src="./images/black-cat.png" width="120"> <img src="./images/blue-cat.png" width="120"> <img src="./images/siamese-cat.png" width="120"> </p> |[<img src="./images/breakheart-cat.jpg" width="150">](https://x.com/alexiccw/status/2029894765664215439?s=20)
 
 📌 Details  
 
@@ -145,6 +144,41 @@ Author: @alexiccw
 Source: [Twitter Post](https://x.com/alexiccw/status/2029894765664215439?s=20)  
 
 Published: March 6, 2026
+
+### 🎬 Commercial & Ads
+
+Commercial videos should highlight **product, lighting, and premium feeling**.
+
+#### Prompt Template
+
+```
+Luxury commercial style.
+
+A ___ (product) placed on ___ (surface / environment).
+
+Camera ___ (slow rotation / macro shot).
+
+Lighting ___ (soft light / dramatic light).
+
+The product ___ (main highlight moment).
+
+End with ___ (brand style final shot).
+```
+
+#### Example
+
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`The figure within the painting wears a sheepish expression, glancing furtively left and right before leaning out of the frame. Swiftly, they reach out, grab a can of cola, and take a sip, their face lighting up with an expression of pure satisfaction. Just then, the sound of approaching footsteps is heard; the figure in the painting hurriedly places the cola back in its original spot. At that moment, a Western cowboy picks up the glass containing the cola and walks away. Finally, the camera pushes forward; the screen slowly fades to a pure black background, illuminated solely by a spotlight shining down on the canned cola. At the very bottom of the frame, artistic subtitles appear alongside a voiceover: "Cola—A Taste You Can't Miss!"`</details> | <img src="./images/mona-lisa.png" width="300px" alt="mona-lisa"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
+
+📌 Details  
+
+Author: Btydance
+
+Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ)  
+
+Published: February 5, 2026
+
 
 ### No.3 BRAIN DRAIN
 
