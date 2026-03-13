@@ -4,8 +4,8 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
-* [🔥 Featured Prompts + Videos](#-featured-prompts)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
+* [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
 * [📄 About this Project](#-about-this-project)
 
 ## 💗 What Is Seedance 2.0
@@ -51,230 +51,6 @@ No matter which method you use, **Seedance 2.0 currently has a long queue** beca
 Most users report waiting: **2–10 hours** before their video is generated.
 
 This happens because the model is still limited in computing capacity and many creators are trying it at the same time.
-
-## 🔥 Featured Prompts
-
-### 🎬 Cinematic Mastery
-
-#### Prompt Template
-
-```
-Cinematic film style. ___ (main character) in ___ (location).
-
-Camera ___ (camera movement).
-Lighting ___ (lighting style).
-
-___ (main action happening).
-
-Atmosphere: ___ (fog / rain / dramatic light).
-
-End with ___ (epic final shot).
-```
-
-#### Example
-
-| Prompt | Reference Image | Final Result |
-| :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary><br>`The camera follows a man in black fleeing rapidly, pursued by a crowd. The shot transitions to a side-tracking view. In panic, the man crashes into a fruit stand by the roadside, quickly scrambles up, and continues running amidst the chaotic sounds of the crowd.`</details> | <img src="./images/man.png" width="300px" alt="man-is-running"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
-
-📌 Details  
-
-Author: Btydance
-
-Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ)  
-
-Published: February 5, 2026
-
-### 🎬 Anime & Animation
-
-#### Prompt Template
-
-```
-Anime style animation. ___ (character description).
-
-Location: ___ (fantasy place / city / battlefield).
-
-The character ___ (action or attack).
-
-Energy / effects: ___ (light, magic, particles).
-
-End with ___ (dramatic anime pose).
-```
-
-#### Example
-| Prompt | Reference Image | Final Result |
-| :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary><br>`The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.`</details> | None | <video src="https://github.com/user-attachments/assets/2f17ab61-b0ec-4734-8b50-7c61175b7881" width="320px" controls></video> |
-
-📌 Details  
-
-Author: Traditional-Table866
-
-Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_tips_for_using_seedance_20_on_chatart/)  
-
-Published: February 27, 2026
-
-### 🎬 AI Short Series
-
-#### Prompt Template
-
-```
-___ style. ___ (character description) in ___ (place / time / mood).
-
-___ (what happens / action).
-___ (extra emotion or atmosphere).
-
-Dialogue:
-___ says, “___.”
-___ replies, “___.”
-
-End with ___ (final shot / subtitle / fade to black).
-```
-
-#### Example
-
-| Prompt (Expand to Copy) | Reference Image | Final Result |
-| :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary>0–4s: On a cold rainy night, a white cat sits by a trash can. Her fur is wet and she looks weak and heartbroken. She looks toward a luxury car nearby. Inside the car, a blue cat gently feeds tuna to a Siamese cat in his arms, while the Siamese cat enjoys it proudly. The white cat’s eyes fill with tears as she realizes she has been betrayed. Music: sad piano with rain sounds. 4–8s: The white cat suddenly stands up in the rain and her eyes change from weak to cold. A lightning flash cuts to a luxury dressing room. Now the white cat is clean and elegant. She wears a silk robe and puts on a pearl necklace while looking into the mirror with a quiet smile of revenge. Music shifts to epic beats and orchestra. 8–11s: In a bright ballroom, the white cat enters with a black cat prince. She wears a purple lace dress and looks confident. The blue cat sees her from afar and freezes with regret. The Siamese cat notices his reaction and becomes angry and jealous. Music: elegant orchestral waltz. 11–13s: The Siamese cat walks toward the white cat with a glass of wine and pretends to slip to spill it on her. The white cat quickly avoids the wine and slaps the Siamese cat. The Siamese cat falls to the floor and the glass breaks while the crowd gasps. 13–15s: The white cat calmly looks down, then turns away and walks out with the black cat prince. Guests move aside for her while the blue cat watches with regret. The Siamese cat sits on the floor in shame. Music rises into a powerful victory theme.</details> | <p> <img src="./images/white-cat.png" width="120"> <img src="./images/black-cat.png" width="120"> <img src="./images/blue-cat.png" width="120"> <img src="./images/siamese-cat.png" width="120"> </p> |[<img src="./images/breakheart-cat.jpg" width="150">](https://x.com/alexiccw/status/2029894765664215439?s=20)
-
-📌 Details  
-
-Author: @alexiccw
-
-Source: [Twitter Post](https://x.com/alexiccw/status/2029894765664215439?s=20)  
-
-Published: March 6, 2026
-
-### 🎬 Commercial & Ads
-
-Commercial videos should highlight **product, lighting, and premium feeling**.
-
-#### Prompt Template
-
-```
-Luxury commercial style.
-
-A ___ (product) placed on ___ (surface / environment).
-
-Camera ___ (slow rotation / macro shot).
-
-Lighting ___ (soft light / dramatic light).
-
-The product ___ (main highlight moment).
-
-End with ___ (brand style final shot).
-```
-
-#### Example
-
-| Prompt | Reference Image | Final Result |
-| :--- | :--- | :--- |
-| <details><summary>View Full Prompt</summary><br>`The figure within the painting wears a sheepish expression, glancing furtively left and right before leaning out of the frame. Swiftly, they reach out, grab a can of cola, and take a sip, their face lighting up with an expression of pure satisfaction. Just then, the sound of approaching footsteps is heard; the figure in the painting hurriedly places the cola back in its original spot. At that moment, a Western cowboy picks up the glass containing the cola and walks away. Finally, the camera pushes forward; the screen slowly fades to a pure black background, illuminated solely by a spotlight shining down on the canned cola. At the very bottom of the frame, artistic subtitles appear alongside a voiceover: "Cola—A Taste You Can't Miss!"`</details> | <img src="./images/mona-lisa.png" width="300px" alt="mona-lisa"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
-
-📌 Details  
-
-Author: Btydance
-
-Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ)  
-
-Published: February 5, 2026
-
-
-### No.3 BRAIN DRAIN
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/703ce1d2-3e4f-466a-8760-632d111822d6
-
-📝 **Prompt**
-```text
-Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile materials — real fabric, clay, wire armatures, actual tiny props. A clay man sits at a miniature desk in a cozy office, a real tiny laptop open in front of him glowing with a familiar chat interface — white screen, alternating grey and white bubbles. His clay head is in cross-section — one half of his skull open like a hinged lid revealing a plump, healthy, pink clay brain filling the entire cavity. He types a question. [cut] The chat responds — a grey bubble appears. He smiles. In stop-motion the brain shrinks slightly, a tiny gap appearing between brain and skull. He doesn't notice. He types again. [cut] Rapid montage — each question fired off in quick stop-motion. With every sent message the brain shrinks one click smaller — plump to walnut to grape to pea. The empty skull space fills with real tiny cobwebs, a miniature tumbleweed rolls through, a small 'FOR RENT' sign pops up on a tiny stake inside his head. [cut] Close-up of the skull interior — the brain is now a single tiny pink crumb rattling around the bottom of an enormous empty cavity. A real tiny echo visual — the crumb bounces off the walls like a screensaver. [cut] Wide shot — the man leans back with a huge satisfied clay grin, arms behind his head, feet on the desk. The laptop screen shows hundreds of conversations in the sidebar. On the wall behind him, framed diplomas gather real dust. A real tiny spider has built a web between his ear and his shoulder. He looks completely content. The brain crumb settles in a corner and stops moving
-```
-
-📌 Details  
-
-Author: @AleRVG  
-
-Source: [Twitter Post](https://x.com/AleRVG)  
-
-Published: March 4, 2026
-
-### No.4 The vibrant modern cityscape of Zibo
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/b9706438-7fe8-49f3-8842-d00c537c855e
-
-📝 **Prompt**
-
-```text
-The vibrant modern cityscape of Zibo, the majestic night view of the landmark Haidai Tower, intertwine with the antique architecture of Zhoucun Ancient Town. The visuals feature a rich variety of rapidly shifting scenes, from colorful glassworks to bustling city traffic. The camera pans rapidly in sync with the strong musical rhythm, quickly zooming in on grand architectural panoramas and employing stretching and blurring transitions. Strong neon lights sweep across the screen with dynamic light trails. The vibrant and bright color scheme, a blend of traditional Chinese and modern aesthetics, and 4K high definition create a visually striking experience. The sound effects include powerful, rhythmic drum beats and a modern electronic music mix.
-```
-
-📌 Details  
-
-Author: @SVD_Studio_0 
-
-Source: [Twitter Post](https://x.com/SVD_Studio_Q/status/2028376637516214365?s=20)  
-
-Published: March 2, 2026
-
-
-### No.5 Golden eagle flying through a city and landing
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/7f752298-b0c8-4057-a428-7e9488d921c7
-
-📝 **Prompt**
-
-```text
-Hyper-realistic cinematic footage: A golden eagle takes off from a rocky cliff at dawn, wings spread, feathers clearly visible with aerodynamic drag. It glides forward, banking left to avoid a hanging construction crane cable, then climbs sharply over a rooftop antenna array. Wings flex slightly under air resistance, primary feathers bending independently, interacting realistically with the airflow. Breath steam is faintly visible in the cold morning air during a close flyby. The camera tracks parallel at a medium distance using stabilized aerial equipment, with slight natural shake from wind turbulence. The background reveals a dense city skyline enveloped in morning mist, low-angle eastern sunlight casting long shadows across glass facades. As the eagle's downdraft interacts with the environment, the wind blows loose dust and confetti on the roof. The eagle approaches the roof of a modern concrete high-rise. Through controlled wing flaps, momentum gradually decreases, talons extend forward, muscles visibly tense, and micro-adjustments are made for balance. It lands firmly on a large metal rooftop sign that reads "Ambition". Talons grip the metal surface, causing slight vibration and audible metallic resonance. Center of gravity shifts forward then stabilizes. Feathers naturally fall into place. The eagle scans the horizon with subtle head twitches and blinks. Maintain stable temporal consistency. Avoid unnatural frame interpolation. No exaggerated slow motion. Realistic physics, accurate center of gravity shifts, true avian anatomy, environmental reaction to forces.
-```
-
-📌 Details  
-
-Author: OwnDay1819  
-
-Source: [Reddit Post](https://www.reddit.com/r/seedance/comments/1ri3ctl/testing_physics_temporal_consistency_golden_eagle/)  
-
-Published: March 1, 2026
-
-### No.6 Jujutsu Kaisen fighting scenes
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/04519cf2-f99c-4f57-85ea-fc56b1f54ace
-
-
-
-📝 **Prompt**
-
-```text
-The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.
-```
-
-
-
-### No.7 Airplane transforms into mecha robot
-
-🎬 **Video**
-
-https://github.com/user-attachments/assets/60902aa1-6b26-409a-adc7-357517ce2741
-
-📝 **Prompt**
-
-```text
-9:16 Vertical screen mobile phone shooting perspective, real passerby live recording footage, slight handheld shaking, automatic exposure adjustment, focus adjustment, real environmental sound recording, distant city skyline clearly visible. An airport runway near the city center, with a modern metropolis of towering buildings in the background. A large twin-engine wide-body passenger jet is making a low-altitude approach, preparing to land, landing gear already down, the roar of engines deafening. Just before touchdown, the aircraft's fuselage begins to undergo mechanical restructuring—wings fold and disintegrate, fuselage panels slide and unfold, complex metal parts are precisely assembled, hydraulic structures extend and rotate, gears and armor plates are rapidly reconstructed. Highly complex industrial-grade mechanical transformation animation, realistic metal materials, substantial weight, and extremely precise mechanical details. The aircraft completely transforms into a giant metal robot, shattering the runway upon landing, sending debris flying and shockwaves spreading. The robot then rushes into the city, running at high speed, its footsteps crushing asphalt, collapsing streetlights, overturning cars, shattering building windows, and filling the air with smoke and dust. Featuring hyper-realistic, cinematic visuals, a realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and stunning explosions. While maintaining a "live-streaming mobile phone quality" feel, it boasts Hollywood-level visual effects and IMAX-level detail.
-```
-
-📌 Details  
-
-Author: mhu99
-
-Source: [Reddit Post](https://www.reddit.com/r/singularity/comments/1rblgp0/just_with_a_single_prompt_and_this_result_is/)  
-
-Published: February 23, 2026
 
 ## 🚀 How to Write Seedance 2.0 Prompts?
 
@@ -523,18 +299,11 @@ Re-plot @Video1. The character picks up the phone instead of walking away. Use @
 ```
 
 
-## 💗 7 Essential Video Prompt Categories & Examples
+## 🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now
 
-When you face Seedance 2.0 and don’t know where to start, using a prompt template is the easiest way.  
-Replace the words in **___** with your own ideas and generate your first video.
+### 🎬 Cinematic Mastery
 
----
-
-### 1. Cinematic Mastery
-
-If you want a movie-like scene, focus on **camera movement, lighting, and atmosphere**.
-
-**Prompt Template**
+#### Prompt Template
 
 ```
 Cinematic film style. ___ (main character) in ___ (location).
@@ -549,26 +318,23 @@ Atmosphere: ___ (fog / rain / dramatic light).
 End with ___ (epic final shot).
 ```
 
-**Example**
+#### Example
 
-Cinematic film style.  
-A lone warrior stands in a ruined city at sunset.
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`The camera follows a man in black fleeing rapidly, pursued by a crowd. The shot transitions to a side-tracking view. In panic, the man crashes into a fruit stand by the roadside, quickly scrambles up, and continues running amidst the chaotic sounds of the crowd.`</details> | <img src="./images/man.png" width="300px" alt="man-is-running"> | <video src="https://github.com/user-attachments/assets/6d9ea82c-5b82-457e-be6d-41dd9b39de28" width="320px" controls></video> |
 
-Camera slowly pushes forward.  
-Orange light shines through smoke.
+📌 Details  
 
-The warrior walks forward and draws a glowing sword.  
-Wind blows dust across the street.
+Author: Btydance
 
-End with a wide shot of the warrior standing against the burning skyline.
+Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ)  
 
----
+Published: February 5, 2026
 
-### 2. Anime & Animation
+### 🎬 Anime & Animation
 
-Anime prompts usually work best with **dynamic poses and dramatic action**.
-
-**Prompt Template**
+#### Prompt Template
 
 ```
 Anime style animation. ___ (character description).
@@ -582,24 +348,22 @@ Energy / effects: ___ (light, magic, particles).
 End with ___ (dramatic anime pose).
 ```
 
-**Example**
+#### Example
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.`</details> | None | <video src="https://github.com/user-attachments/assets/2f17ab61-b0ec-4734-8b50-7c61175b7881" width="320px" controls></video> |
 
-Anime style animation.  
-A young swordsman with silver hair.
+📌 Details  
 
-Location: a floating island above the clouds.
+Author: Traditional-Table866
 
-He jumps into the air and swings his sword, releasing a glowing blue energy wave.
+Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_tips_for_using_seedance_20_on_chatart/)  
 
-End with the swordsman landing and pointing the sword forward.
+Published: February 27, 2026
 
----
+### 🎬 AI Short Series
 
-### 3. AI Short Series
-
-AI short series prompts focus on **story, emotion, and dialogue**.
-
-**Prompt Template**
+#### Prompt Template
 
 ```
 ___ style. ___ (character description) in ___ (place / time / mood).
@@ -614,28 +378,25 @@ ___ replies, “___.”
 End with ___ (final shot / subtitle / fade to black).
 ```
 
-**Example**
+#### Example
 
-Chinese animation movie style.  
-A and B stand on a cliff at night. Moonlight shines. Sea fog moves around them.
+| Prompt (Expand to Copy) | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary>0–4s: On a cold rainy night, a white cat sits by a trash can. Her fur is wet and she looks weak and heartbroken. She looks toward a luxury car nearby. Inside the car, a blue cat gently feeds tuna to a Siamese cat in his arms, while the Siamese cat enjoys it proudly. The white cat’s eyes fill with tears as she realizes she has been betrayed. Music: sad piano with rain sounds. 4–8s: The white cat suddenly stands up in the rain and her eyes change from weak to cold. A lightning flash cuts to a luxury dressing room. Now the white cat is clean and elegant. She wears a silk robe and puts on a pearl necklace while looking into the mirror with a quiet smile of revenge. Music shifts to epic beats and orchestra. 8–11s: In a bright ballroom, the white cat enters with a black cat prince. She wears a purple lace dress and looks confident. The blue cat sees her from afar and freezes with regret. The Siamese cat notices his reaction and becomes angry and jealous. Music: elegant orchestral waltz. 11–13s: The Siamese cat walks toward the white cat with a glass of wine and pretends to slip to spill it on her. The white cat quickly avoids the wine and slaps the Siamese cat. The Siamese cat falls to the floor and the glass breaks while the crowd gasps. 13–15s: The white cat calmly looks down, then turns away and walks out with the black cat prince. Guests move aside for her while the blue cat watches with regret. The Siamese cat sits on the floor in shame. Music rises into a powerful victory theme.</details> | <p> <img src="./images/white-cat.png" width="120"> <img src="./images/black-cat.png" width="120"> <img src="./images/blue-cat.png" width="120"> <img src="./images/siamese-cat.png" width="120"> </p> |[<img src="./images/breakheart-cat.jpg" width="150">](https://x.com/alexiccw/status/2029894765664215439?s=20)
 
-They start far apart, then slowly move closer.  
-A reaches out and stops B. A looks calm and firm.
+📌 Details  
 
-Dialogue:
+Author: @alexiccw
 
-B says, “You want to control me again?”  
-A replies, “I’m not trying to control you… I just don’t want you to get hurt.”
+Source: [Twitter Post](https://x.com/alexiccw/status/2029894765664215439?s=20)  
 
-End with both of them standing side by side, looking at the sea.
+Published: March 6, 2026
 
----
-
-### 4. Commercial & Ads
+### 🎬 Commercial & Ads
 
 Commercial videos should highlight **product, lighting, and premium feeling**.
 
-**Prompt Template**
+#### Prompt Template
 
 ```
 Luxury commercial style.
@@ -651,22 +412,21 @@ The product ___ (main highlight moment).
 End with ___ (brand style final shot).
 ```
 
-**Example**
+#### Example
 
-Luxury commercial style.
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`The figure within the painting wears a sheepish expression, glancing furtively left and right before leaning out of the frame. Swiftly, they reach out, grab a can of cola, and take a sip, their face lighting up with an expression of pure satisfaction. Just then, the sound of approaching footsteps is heard; the figure in the painting hurriedly places the cola back in its original spot. At that moment, a Western cowboy picks up the glass containing the cola and walks away. Finally, the camera pushes forward; the screen slowly fades to a pure black background, illuminated solely by a spotlight shining down on the canned cola. At the very bottom of the frame, artistic subtitles appear alongside a voiceover: "Cola—A Taste You Can't Miss!"`</details> | <img src="./images/mona-lisa.png" width="300px" alt="mona-lisa"> | <video src="https://github.com/user-attachments/assets/960d00d5-1784-451b-b3a4-c8b3b35c0f6a" width="320px" controls></video> |
 
-A silver watch placed on a black marble table.
+📌 Details  
 
-Camera slowly rotates around the watch.  
-Soft light reflects from the metal.
+Author: Btydance
 
-The watch hands move slowly as tiny light reflections sparkle.
+Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWhoBiOnjukIIw6cu5ybnXQ)  
 
-End with a clean close-up of the watch face.
+Published: February 5, 2026
 
----
-
-### 5. Trending & Viral
+### 🎬 Trending & Viral
 
 Viral videos usually focus on **funny or surprising moments**.
 
@@ -684,21 +444,22 @@ Reaction: ___ (funny or exaggerated reaction).
 End with ___ (meme moment).
 ```
 
-**Example**
+#### Example
 
-Social media viral video style.
+| Prompt | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`Hyperrealistic miniature diorama, stop-motion animation, handcrafted tactile materials — real fabric, clay, wire armatures, actual tiny props. A clay man sits at a miniature desk in a cozy office, a real tiny laptop open in front of him glowing with a familiar chat interface — white screen, alternating grey and white bubbles. His clay head is in cross-section — one half of his skull open like a hinged lid revealing a plump, healthy, pink clay brain filling the entire cavity. He types a question. [cut] The chat responds — a grey bubble appears. He smiles. In stop-motion the brain shrinks slightly, a tiny gap appearing between brain and skull. He doesn't notice. He types again. [cut] Rapid montage — each question fired off in quick stop-motion. With every sent message the brain shrinks one click smaller — plump to walnut to grape to pea. The empty skull space fills with real tiny cobwebs, a miniature tumbleweed rolls through, a small 'FOR RENT' sign pops up on a tiny stake inside his head. [cut] Close-up of the skull interior — the brain is now a single tiny pink crumb rattling around the bottom of an enormous empty cavity. A real tiny echo visual — the crumb bounces off the walls like a screensaver. [cut] Wide shot — the man leans back with a huge satisfied clay grin, arms behind his head, feet on the desk. The laptop screen shows hundreds of conversations in the sidebar. On the wall behind him, framed diplomas gather real dust. A real tiny spider has built a web between his ear and his shoulder. He looks completely content. The brain crumb settles in a corner and stops moving`</details> | None | <video src="https://github.com/user-attachments/assets/d3aba20f-3961-42d9-b7a6-4bb113205218" width="320px" controls></video> |
 
-A cat sits calmly in a small toy car.
+📌 Details  
 
-Suddenly the car starts rolling downhill very fast.
+Author: @AleRVG  
 
-The cat’s eyes go wide and it starts screaming.
+Source: [Twitter Post](https://x.com/AleRVG)  
 
-End with the cat zooming past the camera.
+Published: March 4, 2026
 
----
 
-### 6. Realistic Vlog/UGC
+###  🎬 Realistic Vlog/UGC
 
 UGC videos should feel **casual and real**, like smartphone recordings.
 
@@ -716,19 +477,6 @@ Natural lighting. Slight handheld camera movement.
 End with ___ (casual closing moment).
 ```
 
-**Example**
-
-UGC smartphone video style.
-
-A young woman recording herself in her bedroom.
-
-She shows a skincare product and talks about how she uses it.
-
-Natural daylight from the window. Casual tone.
-
-End with her smiling and waving at the camera.
-
----
 
 ### 7. Creative VFX
 
@@ -748,11 +496,62 @@ Visual effects: ___ (particles / energy waves / abstract motion).
 End with ___ (final abstract visual).
 ```
 
-**Example**
+### No.5 Golden eagle flying through a city and landing
 
-Experimental VFX style.
+🎬 **Video**
 
-A human figure made of glowing particles.
+https://github.com/user-attachments/assets/7f752298-b0c8-4057-a428-7e9488d921c7
+
+📝 **Prompt**
+
+```text
+Hyper-realistic cinematic footage: A golden eagle takes off from a rocky cliff at dawn, wings spread, feathers clearly visible with aerodynamic drag. It glides forward, banking left to avoid a hanging construction crane cable, then climbs sharply over a rooftop antenna array. Wings flex slightly under air resistance, primary feathers bending independently, interacting realistically with the airflow. Breath steam is faintly visible in the cold morning air during a close flyby. The camera tracks parallel at a medium distance using stabilized aerial equipment, with slight natural shake from wind turbulence. The background reveals a dense city skyline enveloped in morning mist, low-angle eastern sunlight casting long shadows across glass facades. As the eagle's downdraft interacts with the environment, the wind blows loose dust and confetti on the roof. The eagle approaches the roof of a modern concrete high-rise. Through controlled wing flaps, momentum gradually decreases, talons extend forward, muscles visibly tense, and micro-adjustments are made for balance. It lands firmly on a large metal rooftop sign that reads "Ambition". Talons grip the metal surface, causing slight vibration and audible metallic resonance. Center of gravity shifts forward then stabilizes. Feathers naturally fall into place. The eagle scans the horizon with subtle head twitches and blinks. Maintain stable temporal consistency. Avoid unnatural frame interpolation. No exaggerated slow motion. Realistic physics, accurate center of gravity shifts, true avian anatomy, environmental reaction to forces.
+```
+
+📌 Details  
+
+Author: OwnDay1819  
+
+Source: [Reddit Post](https://www.reddit.com/r/seedance/comments/1ri3ctl/testing_physics_temporal_consistency_golden_eagle/)  
+
+Published: March 1, 2026
+
+### No.6 Jujutsu Kaisen fighting scenes
+
+🎬 **Video**
+
+https://github.com/user-attachments/assets/04519cf2-f99c-4f57-85ea-fc56b1f54ace
+
+
+
+📝 **Prompt**
+
+```text
+The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.
+```
+
+
+
+### No.7 Airplane transforms into mecha robot
+
+🎬 **Video**
+
+https://github.com/user-attachments/assets/60902aa1-6b26-409a-adc7-357517ce2741
+
+📝 **Prompt**
+
+```text
+9:16 Vertical screen mobile phone shooting perspective, real passerby live recording footage, slight handheld shaking, automatic exposure adjustment, focus adjustment, real environmental sound recording, distant city skyline clearly visible. An airport runway near the city center, with a modern metropolis of towering buildings in the background. A large twin-engine wide-body passenger jet is making a low-altitude approach, preparing to land, landing gear already down, the roar of engines deafening. Just before touchdown, the aircraft's fuselage begins to undergo mechanical restructuring—wings fold and disintegrate, fuselage panels slide and unfold, complex metal parts are precisely assembled, hydraulic structures extend and rotate, gears and armor plates are rapidly reconstructed. Highly complex industrial-grade mechanical transformation animation, realistic metal materials, substantial weight, and extremely precise mechanical details. The aircraft completely transforms into a giant metal robot, shattering the runway upon landing, sending debris flying and shockwaves spreading. The robot then rushes into the city, running at high speed, its footsteps crushing asphalt, collapsing streetlights, overturning cars, shattering building windows, and filling the air with smoke and dust. Featuring hyper-realistic, cinematic visuals, a realistic physics-based destruction system, dynamic lighting and shadows, particle effects, and stunning explosions. While maintaining a "live-streaming mobile phone quality" feel, it boasts Hollywood-level visual effects and IMAX-level detail.
+```
+
+📌 Details  
+
+Author: mhu99
+
+Source: [Reddit Post](https://www.reddit.com/r/singularity/comments/1rblgp0/just_with_a_single_prompt_and_this_result_is/)  
+
+Published: February 23, 2026
+
 
 ## 📄 About This Project
 This is a simple library of "AI video recipes." We share prompts that actually work.
