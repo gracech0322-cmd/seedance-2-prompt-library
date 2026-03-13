@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 6, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 13, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
@@ -54,7 +54,24 @@ This happens because the model is still limited in computing capacity and many c
 
 ## 🔥 Featured Prompts
 
-### Cinematic Mastery
+### 🎬 Cinematic Mastery
+
+#### Prompt Template
+
+```
+Cinematic film style. ___ (main character) in ___ (location).
+
+Camera ___ (camera movement).
+Lighting ___ (lighting style).
+
+___ (main action happening).
+
+Atmosphere: ___ (fog / rain / dramatic light).
+
+End with ___ (epic final shot).
+```
+
+#### Example
 
 | Prompt (Expand to Copy) | Reference Image | Final Result |
 | :--- | :--- | :--- |
@@ -68,25 +85,66 @@ Source: [Btydance official guide](https://bytedance.larkoffice.com/wiki/A5RHwWho
 
 Published: February 5, 2026
 
-### No.2 Dog Vlog
+### 🎬 Anime & Animation
 
-🎬 **Video**
+#### Prompt Template
 
-
-https://github.com/user-attachments/assets/bce09650-4cb8-479c-b8e1-36264ba2d145
-
-📝 **Prompt**
-```text
-[Scene and Subject] A small white Pomeranian wearing adorable pajamas stands on its hind legs in front of a bright bathroom sink, facing a large mirror. [Action and Camera Movement] 0-3 seconds: The opening is a close-up of the mirror. The dog holds a pink toothbrush larger than its face in one paw and a phone in the other, taking a selfie in the mirror. It tilts its head curiously and clumsily tries to put the toothbrush in its mouth. 3-7 seconds: The camera switches to a medium shot behind the dog (mimicking a phone on a tripod). The dog starts brushing its teeth diligently, up and down, left and right, white foam bubbling from its mouth. 7-10 seconds: The camera slowly zooms in on its face. As the dog brushes, it suddenly winks at its reflection (and the camera), giving a super cute "smile," before continuing to brush its teeth intently. [Sound and Atmosphere] The entire sequence is accompanied by the soft vibration of an electric toothbrush (this playful sound can be simulated even with a non-electric one). Upbeat ukulele music plays in the background. The puppy occasionally makes muffled "woof woof" sounds while brushing its teeth, almost like humming a song. Finally, when it blinks, a cute sound effect (like a "ding") plays.
 ```
+Anime style animation. ___ (character description).
+
+Location: ___ (fantasy place / city / battlefield).
+
+The character ___ (action or attack).
+
+Energy / effects: ___ (light, magic, particles).
+
+End with ___ (dramatic anime pose).
+```
+
+#### Example
+| Prompt (Expand to Copy) | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.`</details> | None | <video src="https://github.com/user-attachments/assets/2f17ab61-b0ec-4734-8b50-7c61175b7881" width="320px" controls></video> |
 
 📌 Details  
 
-Author: @Seedance2A8340  
+Author: Traditional-Table866
 
-Source: [Twitter Post](https://x.com/Seedance2A8340)  
+Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_tips_for_using_seedance_20_on_chatart/)  
 
-Published: March 5, 2026
+Published: February 27, 2026
+
+### 🎬 AI Short Series
+
+#### Prompt Template
+
+```
+___ style. ___ (character description) in ___ (place / time / mood).
+
+___ (what happens / action).
+___ (extra emotion or atmosphere).
+
+Dialogue:
+___ says, “___.”
+___ replies, “___.”
+
+End with ___ (final shot / subtitle / fade to black).
+```
+
+#### Example
+
+| Prompt (Expand to Copy) | Reference Image | Final Result |
+| :--- | :--- | :--- |
+| <details><summary>View Full Prompt</summary><br>`Cinematic storytelling, dramatic lighting, emotional acting, film camera language.Scene 1 (0–3s) — Misunderstanding  
+Warm yellow bedroom during a thunderstorm. A drunk black cat in a messy suit sleeps on a bed. A mysterious black cat woman with emerald eyes quickly lies beside him, pretending to sleep. A white cat, soaked by rain and holding a gift box, opens the door and sees them together. The gift box drops. Her eyes fill with tears. Scene 2 (3–6s) — Rain Breakdown.Cold stormy night outside the mansion. The white cat runs into heavy rain, slips and falls on the wet street, then slowly stands up and looks back at the house in despair. Scene 3 (6–9s) — Three Years Later. Modern airport scene. The white cat returns elegant and powerful in a purple dress, diamonds, and sunglasses. An assistant hands her documents as she walks confidently. Scene 4 (9–12s) — Reunion. Outside a company building. The black cat sees her and freezes in shock. Papers fall from his hands. She looks at him coldly and turns away. Scene 5 (12–15s) — Goodbye. The white cat leaves in a luxury car. The black cat runs after it but stops and collapses to his knees as the car disappears.`</details> | None | [![breakheart-cat](图片地址)](https://x.com/alexiccw/status/2029894765664215439?s=20) |
+
+📌 Details  
+
+Author: @alexiccw
+
+Source: [Twitter Post](https://x.com/alexiccw/status/2029894765664215439?s=20)  
+
+Published: March 6, 2026
 
 ### No.3 BRAIN DRAIN
 
@@ -162,13 +220,7 @@ https://github.com/user-attachments/assets/04519cf2-f99c-4f57-85ea-fc56b1f54ace
 The game features a colorful manga style, reminiscent of Jujutsu Kaisen, with a sense of decay and oppression. The positioning of the two characters and their surrounding environment are shown in Figure 1. The first shot: Yuuta Otsukoku (Figure 3) stands amidst the ruins, looking at Sukuna (Figure 2), and coldly utters in Japanese: "Domain unfolds." Simultaneously, the screen turns pure black, displaying four large white characters: "True or False Love," accompanied by Otsukoku's Japanese monologue. The second shot: The camera zooms out, revealing a large amount of flowing blue magical energy. Countless dilapidated crosses and swords rise from the ground (Figure 1). The third shot: One of the swords automatically flies into Otsukoku's hand, releasing blue magical energy.
 ```
 
-📌 Details  
 
-Author: Traditional-Table866
-
-Source: [Reddit Post](http://reddit.com/r/ChatArt/comments/1rf5mi2/sharing_some_tips_for_using_seedance_20_on_chatart/)  
-
-Published: February 27, 2026
 
 ### No.7 Airplane transforms into mecha robot
 
