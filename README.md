@@ -44,6 +44,7 @@ The table below shows the main options and their requirements.
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
 | **Third-Party Website** | [Seedance2-AI](https://seedance2-ai.ai/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
+![seedance2-AI homepage](images/seedance2-ai-homepage.jpg)
 
 No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
 
