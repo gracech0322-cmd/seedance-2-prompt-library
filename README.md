@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 13, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 16, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
@@ -6,6 +6,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
+* [🎁 Bonus: How to Use Real Faces in Seedance 2.0?](#-how-to-use-real-faces-in-seedance-20)
 * [📄 About this Project](#-about-this-project)
 
 ## 💗 What Is Seedance 2.0
@@ -522,6 +523,20 @@ Author: mhu99
 Source: [Reddit Post](https://www.reddit.com/r/singularity/comments/1rblgp0/just_with_a_single_prompt_and_this_result_is/)  
 
 Published: February 23, 2026
+
+## 🎁 Bonus: How to Use Real Faces in Seedance 2.0?
+
+Seedance 2.0 does not allow real human faces. If you upload a real face, the system will block the generation.
+
+Below is a screenshot that shows this restriction after I uploaded a real face.
+
+But there are still ways to get around it.
+
+### Method 1: Edit the image with AI
+
+You can use an AI image editor like Nanobanana or other editing tools. Let the AI change your photo a little. After this step, the image is often accepted by Seedance 2.0.
+
+I used this method and successfully generated the video below.
 
 
 ## 📄 About This Project
