@@ -6,7 +6,7 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
-* [🎁 Bonus: How to Use Real Faces in Seedance 2.0?](#-how-to-use-real-faces-in-seedance-20)
+* [🎁 Bonus: How to Use Real Faces in Seedance 2.0?](#-bonus-how-to-use-real-faces-in-seedance-20)
 * [📄 About this Project](#-about-this-project)
 
 ## 💗 What Is Seedance 2.0
@@ -528,8 +528,6 @@ Published: February 23, 2026
 
 Seedance 2.0 does not allow real human faces. If you upload a real face, the system will block the generation.
 
-Below is a screenshot that shows this restriction after I uploaded a real face.
-
 But there are still ways to get around it.
 
 ### Method 1: Edit the image with AI
@@ -537,6 +535,38 @@ But there are still ways to get around it.
 You can use an AI image editor like Nanobanana or other editing tools. Let the AI change your photo a little. After this step, the image is often accepted by Seedance 2.0.
 
 I used this method and successfully generated the video below.
+
+![how-to-upload-a-real-face-on-seedance2](images/how-to-uplod-a-real-face-on-seedance2.jpg)
+
+Here is the result:
+
+<video src="https://github.com/user-attachments/assets/df8e7184-4c1b-419f-b43e-34983af28107" width="320px" controls></video>
+
+### Method 2: Turn the Photo Into a Line Art Image
+
+Another simple method is to turn your photo into line art.
+
+You can use an AI tool to convert your face photo into a sketch or line drawing. The image will still keep the face shape, but it will look more like an illustration.
+
+![linestyle](images/linestyle.png)
+
+After that, upload the new image to Seedance 2.0 and try again.
+
+Because the image is no longer a normal photo, it often passes the restriction.
+
+I tested this method and it worked well for generating videos.
+
+### Method 3: Generate a Similar AI Face
+
+Another way is to generate a similar face with AI.
+
+First, use an AI image generator to create a face that looks similar to your photo. It does not need to be exactly the same. The goal is to keep the same style, hair, and face shape.
+
+Then use this new AI-generated image in Seedance 2.0.
+
+Because the image is created by AI, it is usually accepted by the system.
+
+After that, you can generate the video normally.
 
 
 ## 📄 About This Project
