@@ -38,8 +38,8 @@ The issue was not the quality of the model. The bigger concern was legal risk. R
 ## 🤔 How to Access Seedance 2.0
 
 Right now, there is **no single global entry** for Seedance 2.0.  
-Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
 
+Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
 
 The table below shows the main options and their requirements.
 
