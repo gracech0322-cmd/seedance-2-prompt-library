@@ -1,8 +1,9 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 16, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 17, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
+* [👀 Why the Global Launch of Seedance 2.0 Was Paused?](#-why-the-global-launch-of-seedance-20-was-paused)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
@@ -27,6 +28,11 @@ This is a collection of the best prompts and videos for Seedance 2.0. Learn to m
 | **Generation Duration** | **≤ 15s**, selectable between 4–15s |
 | **Audio Output** | Built-in sound effects / Background music |
 | **Interaction Limits** | The total limit for mixed input is **12 files**. Priority should be given to materials that significantly impact visual composition or rhythm. |
+
+## 👀 Why the Global Launch of Seedance 2.0 Was Paused?
+Seedance 2.0 has suspended its global launch over copyright concerns. ByteDance had originally planned to release the model worldwide in mid-March, but recent reports say the company paused that plan after facing pressure tied to copyrighted characters, visual styles, and celebrity likenesses.
+
+The issue was not the quality of the model. The bigger concern was legal risk. Reports suggest Seedance 2.0 could generate videos that looked too close to protected film content or well-known public figures. That created a serious challenge for a global launch, especially in the US and Europe.
 
 
 ## 🤔 How to Access Seedance 2.0
