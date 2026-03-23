@@ -554,15 +554,15 @@ Another simple method is to turn your photo into line art.
 
 You can use an AI tool to convert your face photo into a sketch or line drawing. The image will still keep the face shape, but it will look more like an illustration.
 
-![linestyle](images/girl.png)
-
-![seedance2-ai](images/seedance2-ai.png)
+<img src="./images/girl.png" width="300px" alt="linestyle">
 
 After that, upload the new image to Seedance 2.0 and try again.
 
 Because the image is no longer a normal photo, it often passes the restriction.
 
-I tested this method and it worked well for generating videos.
+I tested this method and it worked well for generating videos on [Seedance2-AI](https://seedance2-ai.ai/). This website offers Seedance 2.0 services for global users.
+
+<img src="./images/seedance2-ai.jpg" width="300px" alt="seedance2-ai">
 
 ### Method 3: Generate a Similar AI Face
 
