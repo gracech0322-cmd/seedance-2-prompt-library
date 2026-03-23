@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 17, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 23, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 ## 📖 Table of Contents
@@ -536,7 +536,7 @@ Seedance 2.0 does not allow real human faces. If you upload a real face, the sys
 
 But there are still ways to get around it.
 
-### Method 1: Edit the image with AI
+### Method 1: Edit the image with AI（This method is no longer valid on March 23, 2026)
 
 You can use an AI image editor like Nanobanana or other editing tools. Let the AI change your photo a little. After this step, the image is often accepted by Seedance 2.0.
 
@@ -548,13 +548,15 @@ Here is the result:
 
 <video src="https://github.com/user-attachments/assets/df8e7184-4c1b-419f-b43e-34983af28107" width="320px" controls></video>
 
-### Method 2: Turn the Photo Into a Line Art Image
+### Method 2: Turn the Photo Into a Line Art Image (This method is still working on March 23, 2026)
 
 Another simple method is to turn your photo into line art.
 
 You can use an AI tool to convert your face photo into a sketch or line drawing. The image will still keep the face shape, but it will look more like an illustration.
 
-![linestyle](images/linestyle.png)
+![linestyle](images/girl.png)
+
+![seedance2-ai](images/seedance2-ai.png)
 
 After that, upload the new image to Seedance 2.0 and try again.
 
