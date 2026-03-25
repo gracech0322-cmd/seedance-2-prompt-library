@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 24, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: March 25, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
@@ -7,7 +7,7 @@ Feel free to try it 👉：**[seedance 2.0 prompt writer](https://chatgpt.com/g/
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
-* [👀 Why the Global Launch of Seedance 2.0 Was Paused?](#-why-the-global-launch-of-seedance-20-was-paused)
+* [👀 The Seedance 2.0 API is now live](#-the-seedance-20-api-is-now-live)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
@@ -33,10 +33,10 @@ Feel free to try it 👉：**[seedance 2.0 prompt writer](https://chatgpt.com/g/
 | **Audio Output** | Built-in sound effects / Background music |
 | **Interaction Limits** | The total limit for mixed input is **12 files**. Priority should be given to materials that significantly impact visual composition or rhythm. |
 
-## 👀 Why the Global Launch of Seedance 2.0 Was Paused?
-Seedance 2.0 has suspended its global launch over copyright concerns. ByteDance had originally planned to release the model worldwide in mid-March, but recent reports say the company paused that plan after facing pressure tied to copyrighted characters, visual styles, and celebrity likenesses.
+## 👀 The Seedance 2.0 API is Now Live?
+Seedance 2.0 is currently rolling out in selected regions rather than launching globally at once. Recent reports indicate that access has opened in parts of Southeast Asia, including Thailand and Malaysia, while the US and most of Europe still do not have broad official access. Reuters also reported earlier this month that ByteDance had paused its wider global rollout amid copyright-related pressure.
 
-The issue was not the quality of the model. The bigger concern was legal risk. Reports suggest Seedance 2.0 could generate videos that looked too close to protected film content or well-known public figures. That created a serious challenge for a global launch, especially in the US and Europe.
+If you are in a region where official access is not yet available, you can still use [this website’s service or API](https://seedance2-ai.ai/) to work with Seedance 2.0 without waiting for the full rollout.
 
 
 ## 🤔 How to Access Seedance 2.0
