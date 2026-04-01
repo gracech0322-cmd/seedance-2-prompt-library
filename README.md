@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: March 25, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: April 1, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
@@ -568,17 +568,9 @@ I tested this method and it worked well for generating videos on [Seedance2-AI](
 
 <img src="./images/seedance2-ai.jpg" width="300px" alt="seedance2-ai">
 
-### Method 3: Generate a Similar AI Face
+### Method 3: Official Face Review
 
-Another way is to generate a similar face with AI.
-
-First, use an AI image generator to create a face that looks similar to your photo. It does not need to be exactly the same. The goal is to keep the same style, hair, and face shape.
-
-Then use this new AI-generated image in Seedance 2.0.
-
-Because the image is created by AI, it is usually accepted by the system.
-
-After that, you can generate the video normally.
+Seedance2-ai.ai now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
 
 
 ## 📄 About This Project
