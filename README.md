@@ -11,7 +11,8 @@ Feel free to try it 👉：**[seedance 2.0 prompt writer](https://chatgpt.com/g/
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
-* [🎁 Bonus: How to Use Real Faces in Seedance 2.0?](#-bonus-how-to-use-real-faces-in-seedance-20)
+* [🎁 How to Use Real Face Photos in Seedance 2.0?](#-bonus-how-to-use-real-face-photos-in-seedance-20)
+* [🎬 How to Edit Real Human Videos in Seedance 2.0?](#-how-to-edit-real-human-videos-in-seedance-20)
 * [📄 About this Project](#-about-this-project)
 
 ## 💗 What Is Seedance 2.0
@@ -534,7 +535,7 @@ Source: [Reddit Post](https://www.reddit.com/r/singularity/comments/1rblgp0/just
 
 Published: February 23, 2026
 
-## 🎁 Bonus: How to Use Real Faces in Seedance 2.0?
+## 🎁 How to Use Real Face Photos in Seedance 2.0?
 
 Seedance 2.0 does not allow real human faces. If you upload a real face, the system will block the generation.
 
@@ -571,6 +572,41 @@ I tested this method and it worked well for generating videos on [Seedance2-AI](
 ### Method 3: Official Face Review
 
 Seedance2-ai.ai now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
+
+<img src="./images/step-2-upload-your-file.jpg" width="750px" alt="upload file to review">
+
+## 🎬 How to Edit Real Human Videos in Seedance 2.0?
+
+Directly uploading real human videos may cause generation failures. To ensure a high success rate, please follow this optimized workflow:
+
+### Step 1: Prepare & Upload Materials
+
+Face Reference: Extract a clear face screenshot from your original video and upload it as an Image Reference.
+
+Video Reference: Blur or mask the face in the original video, then upload it as your Video Reference.
+
+<img src="./images/step-1.jpg" width="750px" alt="upload files">
+
+### Step 2: Enter Your Prompt 
+
+Clearly describe the changes you want to apply.
+
+Example:
+
+"Replace the dress in @Video1 with the style from @Image2, and swap the person in @Video1 with the face in @Image1. Keep all other details unchanged."
+
+<img src="./images/step-2.jpg" width="750px" alt="enter prompt">
+
+### Step 3: Processing 
+
+Wait a few minutes for the AI to render. You will receive your edited video once the process is complete.
+
+⚠️ Please Note:
+If the extracted face image fails the safety review, it cannot be used for generation.
+
+This is currently the most reliable workflow for editing real human content on Seedance 2.0.
+
+<img src="./images/step-3.jpg" width="750px" alt="get result">
 
 
 ## 📄 About This Project
