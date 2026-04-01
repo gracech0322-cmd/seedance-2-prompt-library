@@ -17,7 +17,7 @@ Feel free to try it 👉：**[seedance 2.0 prompt writer](https://chatgpt.com/g/
 
 ## 💗 What Is Seedance 2.0
 
-![seedance homepage](images/seedance2.jpg)
+<img src="./images/seedance2.jpg" width="750px" alt="seedance homepage">
 
 **Seedance 2.0** is a multimodal video model launched by ByteDance in February 2026. It supports four modalities of input: **image, video, audio, and text**, offering richer expression and more stable generation results.
 
@@ -56,7 +56,7 @@ The table below shows the main options and their requirements.
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
 | **Third-Party Website** | [Seedance2-AI](https://seedance2-ai.ai/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
-![seedance2-AI homepage](images/seedance2-ai-homepage.jpg)
+<img src="./images/seedance2-ai-homepage.jpg" width="750px" alt="seedance2-ai">
 
 No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
 
@@ -567,13 +567,13 @@ Because the image is no longer a normal photo, it often passes the restriction.
 
 I tested this method and it worked well for generating videos on [Seedance2-AI](https://seedance2-ai.ai/). This website offers Seedance 2.0 services for global users.
 
-<img src="./images/seedance2-ai.jpg" width="300px" alt="seedance2-ai">
+<img src="./images/seedance2-ai.jpg" width="750px" alt="seedance2-ai">
 
 ### Method 3: Official Face Review
 
 Seedance2-ai.ai now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
 
-<img src="./images/step-2-upload-your-file.jpg" width="750px" alt="upload file to review">
+<img src="./images/step-2-upload-you-file.jpg" width="750px" alt="upload file to review">
 
 ## 🎬 How to Edit Real Human Videos in Seedance 2.0?
 
@@ -606,7 +606,7 @@ If the extracted face image fails the safety review, it cannot be used for gener
 
 This is currently the most reliable workflow for editing real human content on Seedance 2.0.
 
-<img src="./images/step-3.jpg" width="750px" alt="get result">
+<img src="./images/step 3.jpg" width="750px" alt="get result">
 
 
 ## 📄 About This Project
