@@ -54,9 +54,8 @@ The table below shows the main options and their requirements.
 | **Official Website** | [Capcut](https://dreamina.capcut.com/) | None | Seedance 2.0 was previously available, but it is **currently disabled** |
 | **Official App** | DouBao | Chinese phone number + VPN | Official mobile access |
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
-| **Third-Party Website** | [Seedance2-AI](https://seedance2-ai.ai/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
+| **Third-Party Website** | [SeeGen](https://seegen.ai/?utm_source=git/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
-<img src="./images/seedance2-ai-homepage.jpg" width="750px" alt="seedance2-ai">
 
 No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
 
@@ -571,7 +570,7 @@ I tested this method and it worked well for generating videos on [Seedance2-AI](
 
 ### Method 3: Official Face Review
 
-Seedance2-ai.ai now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
+[SeeGen.AI](https://seegen.ai/?utm_source=git)] now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
 
 <img src="./images/step-2-upload-you-file.jpg" width="750px" alt="upload file to review">
 
