@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: April 8, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: April 15, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
@@ -39,9 +39,9 @@ Feel free to try it 👉：**[seedance 2.0 prompt writer](https://chatgpt.com/g/
 | Platform    | Access                  | Base price (1s)                             | With video input (1s)                       | Notes                                        |
 | ----------- | ----------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
 | fal.ai      | Early access / waitlist | N/A                                         | N/A                                         | Not testable yet                             |
-| PiAPI       | Public                  | Fast: $0.08/s, Pro: $0.10/s                 | Fast: $0.16/s, Pro: $0.20/s                 | Video input doubles the price                |
+| PiAPI       | Public                  | Fast: $0.108/s, Pro: $0.138/s                 | Fast: $0.208/s, Pro: $0.268/s                 | Video input doubles the price and watermark removal is charged at $0.08 per second.               |
 | Atlas Cloud | Public                  | Fast: $0.1738/s, Pro: $0.216/s              | Fast: $0.3476/s, Pro: $0.432/s              | Public site also shows 480p at $0.08–$0.10/s |
-| SeeGen AI   | Available               | Fast: $0.114–$0.128/s, Pro: $0.143–$0.160/s | Fast: $0.114–$0.128/s, Pro: $0.143–$0.160/s | No extra charge for video input              |
+| SeeGen AI   | Available               | Fast: $0.128/s, Pro: $0.160/s | Fast: $0.192/s, Pro: $0.240/s | Using video as input costs 1.5× more credits than not using video input.              |
 
 Takeaway: PiAPI is cheaper for basic T2V / I2V / first-last-frame without video input, but **[SeeGen AI](https://seegen.ai/api-docs/?utm_source=git)** becomes cheaper once video input is involved, and also looks better for multi-ref / real human workflows.
 
