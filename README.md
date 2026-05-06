@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: April 15, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: May 6, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
