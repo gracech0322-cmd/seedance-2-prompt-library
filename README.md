@@ -1,4 +1,4 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: June 12, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: July 7, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
@@ -6,6 +6,7 @@ I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your
 Feel free to try it 👉：
 - **[seedance 2.0 prompt writer](https://chatgpt.com/g/g-69bbac55721c8191ab5acf0ada16f646-seedance-2-0-prompt-writer)**
 - [open source image/video to prompt generator](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt)
+- [Seedance 2.0: Sign up for 200 free credits](https://seegen.ai/?utm_source=git)
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
@@ -49,19 +50,17 @@ Takeaway: PiAPI is cheaper for basic T2V / I2V / first-last-frame without video 
 
 ## 🤔 How to Access Seedance 2.0
 
-Right now, there is **no single global entry** for Seedance 2.0.  
-
-Most official platforms are designed for users in China, so they usually require a **Chinese phone number** and sometimes a **VPN**.
+Currently, Dreamina is accessible in most regions, and it is the official website. However, the official website does not support using real humans as reference materials. At the moment, some third-party platforms support real human references as input.
 
 The table below shows the main options and their requirements.
 
 | Access Method | Platform | Requirements | Notes |
 |---|---|---|---|
 | **Official Website** | [Jimeng](https://jimeng.jianying.com/)| Chinese phone number + VPN | Official Seedance access via web |
-| **Official Website** | [Capcut](https://dreamina.capcut.com/) | None | Seedance 2.0 was previously available, but it is **currently disabled** |
+| **Official Website** | [Capcut](https://dreamina.capcut.com/) | None | Real human reference is not supported. |
 | **Official App** | DouBao | Chinese phone number + VPN | Official mobile access |
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
-| **Third-Party Website** | [SeeGen](https://seegen.ai/?utm_source=git/) | No Chinese phone number, no VPN | New users receive **200 free credits** |
+| **Third-Party Website** | [SeeGen](https://seegen.ai/?utm_source=git) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
 
 No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
