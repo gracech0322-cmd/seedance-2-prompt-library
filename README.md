@@ -1,18 +1,18 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: July 9, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: July 21, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
 
 Feel free to try it 👉：
 - **[seedance 2.0 prompt writer](https://chatgpt.com/g/g-69bbac55721c8191ab5acf0ada16f646-seedance-2-0-prompt-writer)**
-- [open source image/video to prompt generator](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt)
 - [Seedance 2.0: Sign up for 200 free credits](https://seegen.ai/?utm_source=git)
+- [open source image/video to prompt generator](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt)
 - [Seedance 2.5:30-Second AI Video, 50 References, Release Day and Demos ](https://github.com/gracech0322-cmd/seedance-2-5/blob/main/README.md)
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
-* [👀 The Seedance 2.0 API is now live](#-the-seedance-20-api-is-now-live)
 * [🤔 How to Access Seedance 2.0?](#-how-to-access-seedance-20)
+* [👀 The Seedance 2.0 API for Individual Users](#-the-seedance-20-api-for-individual-users)
 * [🚀 How to Write Seedance 2.0 Prompts?](#-how-to-write-seedance-20-prompts)
 * [🔥 Seedance 2.0 Showcase: 7 Viral Video Styles You Can Replicate Now](#-seedance-20-showcase-7-viral-video-styles-you-can-replicate-now)
 * [🎁 How to Use Real Face Photos in Seedance 2.0?](#-bonus-how-to-use-real-face-photos-in-seedance-20)
@@ -40,14 +40,17 @@ Feel free to try it 👉：
 
 ## 👀 The Seedance 2.0 API for Individual Users
 
-| Platform    | Access                  | Base price (1s)                             | With video input (1s)                       | Notes                                        |
-| ----------- | ----------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
-| fal.ai      | Early access / waitlist | N/A                                         | N/A                                         | Not testable yet                             |
-| PiAPI       | Public                  | Fast: $0.108/s, Pro: $0.138/s                 | Fast: $0.208/s, Pro: $0.268/s                 | Video input doubles the price and watermark removal is charged at $0.08 per second.               |
-| Atlas Cloud | Public                  | Fast: $0.1738/s, Pro: $0.216/s              | Fast: $0.3476/s, Pro: $0.432/s              | Public site also shows 480p at $0.08–$0.10/s |
-| SeeGen AI   | Available               | Fast: $0.128/s, Pro: $0.160/s | Fast: $0.192/s, Pro: $0.240/s | Using video as input costs 1.5× more credits than not using video input.              |
+| Provider | Fast 720p | Pro 720p | Human References |
+|---|---:|---:|---|
+| BytePlus (Official API) | $0.12/s | $0.152/s | No |
+| SeeGen AI | $0.13/s | $0.16/s | Yes |
+| PiAPI | $0.16/s | $0.20/s | Yes |
+| AtlasCloud | $0.159/s | $0.194/s | No |
+| Replicate | $0.15/s | $0.18/s | No |
+| Fal AI | $0.242/s | $0.302/s | No |
 
-Takeaway: PiAPI is cheaper for basic T2V / I2V / first-last-frame without video input, but **[SeeGen AI](https://seegen.ai/api-docs/?utm_source=git)** becomes cheaper once video input is involved, and also looks better for multi-ref / real human workflows.
+
+Takeaway: Takeaway: [BytePlus](https://www.byteplus.com/) provides the official Seedance 2.0 API access and offers competitive pricing. However, if your workflow requires human faces in reference materials or real human reference support, **[SeeGen AI](https://seegen.ai/?utm_source=git)** is a better choice to consider.
 
 ## 🤔 How to Access Seedance 2.0
 
@@ -63,12 +66,6 @@ The table below shows the main options and their requirements.
 | **Official App** | Xiaoyunque | Chinese phone number + VPN | Seedance features are integrated in the app |
 | **Third-Party Website** | [SeeGen](https://seegen.ai/?utm_source=git) | No Chinese phone number, no VPN | New users receive **200 free credits** |
 
-
-No matter which method you use, **Seedance 2.0 currently has a long queue** because demand is very high.
-
-Most users report waiting: **2–10 hours** before their video is generated.
-
-This happens because the model is still limited in computing capacity and many creators are trying it at the same time.
 
 ## 🚀 How to Write Seedance 2.0 Prompts?
 
@@ -547,7 +544,14 @@ Seedance 2.0 does not allow real human faces. If you upload a real face, the sys
 
 But there are still ways to get around it.
 
-### Method 1: Edit the image with AI（This method is no longer valid on March 23, 2026)
+### Method 1: Official Face Review
+
+[SeeGen.AI](https://seegen.ai/?utm_source=git) now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
+
+<img src="./images/step-2-upload-you-file.jpg" width="750px" alt="upload file to review">
+
+
+### Method 2: Edit the image with AI
 
 You can use an AI image editor like Nanobanana or other editing tools. Let the AI change your photo a little. After this step, the image is often accepted by Seedance 2.0.
 
@@ -559,7 +563,7 @@ Here is the result:
 
 <video src="https://github.com/user-attachments/assets/df8e7184-4c1b-419f-b43e-34983af28107" width="320px" controls></video>
 
-### Method 2: Turn the Photo Into a Line Art Image (This method is still working on March 23, 2026)
+### Method 3: Turn the Photo Into a Line Art Image 
 
 Another simple method is to turn your photo into line art.
 
@@ -575,17 +579,24 @@ I tested this method and it worked well for generating videos on [Seedance2-AI](
 
 <img src="./images/seedance2-ai.jpg" width="750px" alt="seedance2-ai">
 
-### Method 3: Official Face Review
 
-[SeeGen.AI](https://seegen.ai/?utm_source=git)] now features an integrated Face Review system. Simply upload your face image and wait approximately 15 seconds for approval. Once cleared, you can immediately use it as a reference for your video generation.
-
-<img src="./images/step-2-upload-you-file.jpg" width="750px" alt="upload file to review">
 
 ## 🎬 How to Edit Real Human Videos in Seedance 2.0?
 
+### Method 1: Official Face Review
+
+Official Seedance 2.0 services like Dreamina and BytePlus have restrictions on using real human faces as reference inputs.
+
+Some third-party API platforms solve this by providing an asset management system — you can upload a face reference, pass the review process, and then use the approved asset in Seedance 2.0 generation workflows.
+
+For example, [SeeGen AI](https://seegen.ai/?utm_source=git) supports real human references for Seedance 2.0 generation.
+
+
+### Method 2: Blur or Mask the Face
+
 Directly uploading real human videos may cause generation failures. To ensure a high success rate, please follow this optimized workflow:
 
-### Step 1: Prepare & Upload Materials
+#### Step 1: Prepare & Upload Materials
 
 Face Reference: Extract a clear face screenshot from your original video and upload it as an Image Reference.
 
@@ -593,7 +604,7 @@ Video Reference: Blur or mask the face in the original video, then upload it as 
 
 <img src="./images/step-1.jpg" width="750px" alt="upload files">
 
-### Step 2: Enter Your Prompt 
+#### Step 2: Enter Your Prompt 
 
 Clearly describe the changes you want to apply.
 
@@ -603,7 +614,7 @@ Example:
 
 <img src="./images/step-2.jpg" width="750px" alt="enter prompt">
 
-### Step 3: Processing 
+#### Step 3: Processing 
 
 Wait a few minutes for the AI to render. You will receive your edited video once the process is complete.
 
