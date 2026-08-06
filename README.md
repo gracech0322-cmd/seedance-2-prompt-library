@@ -7,7 +7,7 @@ Feel free to try it 👉：
 - [seedance 2.0 prompt writer](https://chatgpt.com/g/g-69bbac55721c8191ab5acf0ada16f646-seedance-2-0-prompt-writer)
 - [Seedance 2.0: Sign up for 200 free credits](https://seegen.ai/?utm_source=git)
 - [open source image/video to prompt generator](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt)
-- [Seedance 2.5 is Live ](https://seegen.ai/?utm_source=git)
+- [Seedance 2.5 is Live: Try it Now ](https://seegen.ai/?utm_source=git)
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
