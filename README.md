@@ -1,13 +1,13 @@
-# Awesome Seedance 2.0 Prompts Libary (Updated: July 29, 2026)
+# Awesome Seedance 2.0 Prompts Libary (Updated: August 6, 2026)
 This is a collection of the best prompts and videos for Seedance 2.0. Learn to make cinematic AI videos with ease here.
 
 I created a GPT that helps optimize Seedance 2.0 prompts and also checks if your prompts can pass moderation. 
 
 Feel free to try it 👉：
-- **[seedance 2.0 prompt writer](https://chatgpt.com/g/g-69bbac55721c8191ab5acf0ada16f646-seedance-2-0-prompt-writer)**
+- [seedance 2.0 prompt writer](https://chatgpt.com/g/g-69bbac55721c8191ab5acf0ada16f646-seedance-2-0-prompt-writer)
 - [Seedance 2.0: Sign up for 200 free credits](https://seegen.ai/?utm_source=git)
 - [open source image/video to prompt generator](https://github.com/gracech0322-cmd/promptlab-image-video-to-prompt)
-- [Seedance 2.5:30-Second AI Video, 50 References, Release Day and Demos ](https://github.com/gracech0322-cmd/seedance-2-5/blob/main/README.md)
+- [Seedance 2.5 is Live ](https://seegen.ai/?utm_source=git)
 
 ## 📖 Table of Contents
 * [💗 What Is Seedance 2.0?](#-what-is-seedance-20)
